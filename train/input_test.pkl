@@ -1,0 +1,7348 @@
+(lp1
+(dp2
+S'y'
+I1
+sS'text'
+p3
+S'and made sure they failed'
+p4
+sS'num_words'
+p5
+I5
+sa(dp6
+S'y'
+I1
+sg3
+S'deadly sins like pedophiles stop'
+p7
+sg5
+I5
+sa(dp8
+S'y'
+I0
+sg3
+S'have some "kind of" nervous breakdown'
+p9
+sg5
+I6
+sa(dp10
+S'y'
+I1
+sg3
+S'drink and about an hour'
+p11
+sg5
+I5
+sa(dp12
+S'y'
+I0
+sg3
+S'it the most and you'
+p13
+sg5
+I5
+sa(dp14
+S'y'
+I1
+sg3
+S"do n't appear to take"
+p15
+sg5
+I5
+sa(dp16
+S'y'
+I1
+sg3
+S"person 's possible motives or"
+p17
+sg5
+I5
+sa(dp18
+S'y'
+I1
+sg3
+S'argument is like saying to'
+p19
+sg5
+I5
+sa(dp20
+S'y'
+I1
+sg3
+S'ruined by some sick and'
+p21
+sg5
+I5
+sa(dp22
+S'y'
+I1
+sg3
+S'marxists is probably the most'
+p23
+sg5
+I5
+sa(dp24
+S'y'
+I0
+sg3
+S'tong said some villages have'
+p25
+sg5
+I5
+sa(dp26
+S'y'
+I0
+sg3
+S'make it "look like" trash then'
+p27
+sg5
+I6
+sa(dp28
+S'y'
+I0
+sg3
+S"i 'd find a safe"
+p29
+sg5
+I5
+sa(dp30
+S'y'
+I1
+sg3
+S'starting to "look like" an image'
+p31
+sg5
+I6
+sa(dp32
+S'y'
+I1
+sg3
+S'estimate how much power would'
+p33
+sg5
+I5
+sa(dp34
+S'y'
+I1
+sg3
+S'start bill may be the'
+p35
+sg5
+I5
+sa(dp36
+S'y'
+I1
+sg3
+S'invested in mostly failed enterprises'
+p37
+sg5
+I5
+sa(dp38
+S'y'
+I1
+sg3
+S'house can sometimes be a'
+p39
+sg5
+I5
+sa(dp40
+S'y'
+I1
+sg3
+S'give you "a bit" of context'
+p41
+sg5
+I6
+sa(dp42
+S'y'
+I1
+sg3
+S"do n't believe that not"
+p43
+sg5
+I5
+sa(dp44
+S'y'
+I0
+sg3
+S'-rrb- in "a little" flat around'
+p45
+sg5
+I6
+sa(dp46
+S'y'
+I0
+sg3
+S'then we should encourage it'
+p47
+sg5
+I5
+sa(dp48
+S'y'
+I1
+sg3
+S'start it may require camp'
+p49
+sg5
+I5
+sa(dp50
+S'y'
+I0
+sg3
+S'i could find people who'
+p51
+sg5
+I5
+sa(dp52
+S'y'
+I0
+sg3
+S'soon as possible after christmas'
+p53
+sg5
+I5
+sa(dp54
+S'y'
+I0
+sg3
+S'might not like the way'
+p55
+sg5
+I5
+sa(dp56
+S'y'
+I1
+sg3
+S'advantage over someone who is'
+p57
+sg5
+I5
+sa(dp58
+S'y'
+I0
+sg3
+S'poor taking some of these'
+p59
+sg5
+I5
+sa(dp60
+S'y'
+I1
+sg3
+S'start i think mostly it'
+p61
+sg5
+I5
+sa(dp62
+S'y'
+I0
+sg3
+S'to something totally different in'
+p63
+sg5
+I5
+sa(dp64
+S'y'
+I0
+sg3
+S'are talking about the exact'
+p65
+sg5
+I5
+sa(dp66
+S'y'
+I1
+sg3
+S'i dont think its anything'
+p67
+sg5
+I5
+sa(dp68
+S'y'
+I0
+sg3
+S'the most likely candidate to'
+p69
+sg5
+I5
+sa(dp70
+S'y'
+I1
+sg3
+S'... it should fail for'
+p71
+sg5
+I5
+sa(dp72
+S'y'
+I1
+sg3
+S'do not believe that blacks'
+p73
+sg5
+I5
+sa(dp74
+S'y'
+I1
+sg3
+S'start i guess i feel'
+p75
+sg5
+I5
+sa(dp76
+S'y'
+I0
+sg3
+S'all hissy about the homogenization'
+p77
+sg5
+I5
+sa(dp78
+S'y'
+I1
+sg3
+S'and listen "a few" more times'
+p79
+sg5
+I6
+sa(dp80
+S'y'
+I1
+sg3
+S'point i think it only'
+p81
+sg5
+I5
+sa(dp82
+S'y'
+I1
+sg3
+S"i personally think ragman 's"
+p83
+sg5
+I5
+sa(dp84
+S'y'
+I0
+sg3
+S'tell her someone is being'
+p85
+sg5
+I5
+sa(dp86
+S'y'
+I0
+sg3
+S'start its like that whole'
+p87
+sg5
+I5
+sa(dp88
+S'y'
+I0
+sg3
+S"want a fair day 's"
+p89
+sg5
+I5
+sa(dp90
+S'y'
+I1
+sg3
+S'start i believe that people'
+p91
+sg5
+I5
+sa(dp92
+S'y'
+I0
+sg3
+S'the msm totally underplayed the'
+p93
+sg5
+I5
+sa(dp94
+S'y'
+I0
+sg3
+S'opinion and hear say not'
+p95
+sg5
+I5
+sa(dp96
+S'y'
+I0
+sg3
+S"have n't read through the"
+p97
+sg5
+I5
+sa(dp98
+S'y'
+I1
+sg3
+S'over in several weeks .'
+p99
+sg5
+I5
+sa(dp100
+S'y'
+I0
+sg3
+S'and i expect the same'
+p101
+sg5
+I5
+sa(dp102
+S'y'
+I0
+sg3
+S'you would like to explain'
+p103
+sg5
+I5
+sa(dp104
+S'y'
+I0
+sg3
+S'the same "sort of" thing when'
+p105
+sg5
+I6
+sa(dp106
+S'y'
+I1
+sg3
+S'companies spend about 31 cents'
+p107
+sg5
+I5
+sa(dp108
+S'y'
+I0
+sg3
+S'start its about restoring honor'
+p109
+sg5
+I5
+sa(dp110
+S'y'
+I1
+sg3
+S'start looks like the hard'
+p111
+sg5
+I5
+sa(dp112
+S'y'
+I0
+sg3
+S'a shit about the deficit'
+p113
+sg5
+I5
+sa(dp114
+S'y'
+I0
+sg3
+S'patients who could not afford'
+p115
+sg5
+I5
+sa(dp116
+S'y'
+I0
+sg3
+S'on spiting someone who told'
+p117
+sg5
+I5
+sa(dp118
+S'y'
+I1
+sg3
+S"do n't think dead japs"
+p119
+sg5
+I5
+sa(dp120
+S'y'
+I1
+sg3
+S'... she apparently wants to'
+p121
+sg5
+I5
+sa(dp122
+S'y'
+I0
+sg3
+S"i 'd like to just"
+p123
+sg5
+I5
+sa(dp124
+S'y'
+I1
+sg3
+S'speech cases like these take'
+p125
+sg5
+I5
+sa(dp126
+S'y'
+I0
+sg3
+S'as a possible adverse event'
+p127
+sg5
+I5
+sa(dp128
+S'y'
+I0
+sg3
+S'then why should they pay'
+p129
+sg5
+I5
+sa(dp130
+S'y'
+I0
+sg3
+S"did n't know if he"
+p131
+sg5
+I5
+sa(dp132
+S'y'
+I0
+sg3
+S'to learn about my religion'
+p133
+sg5
+I5
+sa(dp134
+S'y'
+I1
+sg3
+S'of the general public is'
+p135
+sg5
+I5
+sa(dp136
+S'y'
+I1
+sg3
+S'suppose we could propose organized'
+p137
+sg5
+I5
+sa(dp138
+S'y'
+I0
+sg3
+S"'ll be sure to bathe"
+p139
+sg5
+I5
+sa(dp140
+S'y'
+I0
+sg3
+S'worth putting some money on'
+p141
+sg5
+I5
+sa(dp142
+S'y'
+I1
+sg3
+S'more presidents like him .'
+p143
+sg5
+I5
+sa(dp144
+S'y'
+I0
+sg3
+S'the rioters believe theyre acting'
+p145
+sg5
+I5
+sa(dp146
+S'y'
+I0
+sg3
+S'start since most humans tend'
+p147
+sg5
+I5
+sa(dp148
+S'y'
+I1
+sg3
+S'us is about 45 %'
+p149
+sg5
+I5
+sa(dp150
+S'y'
+I0
+sg3
+S"i 'd like you to"
+p151
+sg5
+I5
+sa(dp152
+S'y'
+I1
+sg3
+S'i personally believe that syria'
+p153
+sg5
+I5
+sa(dp154
+S'y'
+I1
+sg3
+S'most people seem to feel'
+p155
+sg5
+I5
+sa(dp156
+S'y'
+I1
+sg3
+S'start i could very easily'
+p157
+sg5
+I5
+sa(dp158
+S'y'
+I1
+sg3
+S'be on some kind of'
+p159
+sg5
+I5
+sa(dp160
+S'y'
+I1
+sg3
+S'but i think you are'
+p161
+sg5
+I5
+sa(dp162
+S'y'
+I1
+sg3
+S"that 's almost as impressive"
+p163
+sg5
+I5
+sa(dp164
+S'y'
+I0
+sg3
+S'in speeches about his wife'
+p165
+sg5
+I5
+sa(dp166
+S'y'
+I0
+sg3
+S"i 'd like to see"
+p167
+sg5
+I5
+sa(dp168
+S'y'
+I0
+sg3
+S'which he completely debunks the'
+p169
+sg5
+I5
+sa(dp170
+S'y'
+I1
+sg3
+S'start i sure wish that'
+p171
+sg5
+I5
+sa(dp172
+S'y'
+I0
+sg3
+S'should talk about the lie'
+p173
+sg5
+I5
+sa(dp174
+S'y'
+I1
+sg3
+S"clubbing and think it 's"
+p175
+sg5
+I5
+sa(dp176
+S'y'
+I0
+sg3
+S'dubbed the most evil in'
+p177
+sg5
+I5
+sa(dp178
+S'y'
+I0
+sg3
+S'be talking about the huge'
+p179
+sg5
+I5
+sa(dp180
+S'y'
+I1
+sg3
+S'someone or some group wil'
+p181
+sg5
+I5
+sa(dp182
+S'y'
+I0
+sg3
+S'start he should have done'
+p183
+sg5
+I5
+sa(dp184
+S'y'
+I1
+sg3
+S'turned india basically back to'
+p185
+sg5
+I5
+sa(dp186
+S'y'
+I0
+sg3
+S"do n't understand -- i"
+p187
+sg5
+I5
+sa(dp188
+S'y'
+I1
+sg3
+S'for i think i speak'
+p189
+sg5
+I5
+sa(dp190
+S'y'
+I0
+sg3
+S'start why should the british'
+p191
+sg5
+I5
+sa(dp192
+S'y'
+I0
+sg3
+S'one he should have told'
+p193
+sg5
+I5
+sa(dp194
+S'y'
+I1
+sg3
+S'start it basically boils down'
+p195
+sg5
+I5
+sa(dp196
+S'y'
+I1
+sg3
+S'them in some circles -rrb-'
+p197
+sg5
+I5
+sa(dp198
+S'y'
+I1
+sg3
+S'was going like crazy during'
+p199
+sg5
+I5
+sa(dp200
+S'y'
+I0
+sg3
+S"does n't like it ."
+p201
+sg5
+I5
+sa(dp202
+S'y'
+I0
+sg3
+S'true in some cases but'
+p203
+sg5
+I5
+sa(dp204
+S'y'
+I1
+sg3
+S"you feel like you 're"
+p205
+sg5
+I5
+sa(dp206
+S'y'
+I0
+sg3
+S'start i like it because'
+p207
+sg5
+I5
+sa(dp208
+S'y'
+I1
+sg3
+S'inheritance i could be entitled'
+p209
+sg5
+I5
+sa(dp210
+S'y'
+I0
+sg3
+S'she asks about going say'
+p211
+sg5
+I5
+sa(dp212
+S'y'
+I0
+sg3
+S'i wrote about this on'
+p213
+sg5
+I5
+sa(dp214
+S'y'
+I0
+sg3
+S'start i like to think'
+p215
+sg5
+I5
+sa(dp216
+S'y'
+I0
+sg3
+S'everyone talks about it .'
+p217
+sg5
+I5
+sa(dp218
+S'y'
+I1
+sg3
+S'become more like robots -lrb-'
+p219
+sg5
+I5
+sa(dp220
+S'y'
+I1
+sg3
+S"do n't consider jones a"
+p221
+sg5
+I5
+sa(dp222
+S'y'
+I1
+sg3
+S'the devil like the rest'
+p223
+sg5
+I5
+sa(dp224
+S'y'
+I0
+sg3
+S'start read about it here'
+p225
+sg5
+I5
+sa(dp226
+S'y'
+I0
+sg3
+S'for some "kind of" a solution'
+p227
+sg5
+I6
+sa(dp228
+S'y'
+I1
+sg3
+S'explain why about 3-jan of'
+p229
+sg5
+I5
+sa(dp230
+S'y'
+I0
+sg3
+S'and you should have walked'
+p231
+sg5
+I5
+sa(dp232
+S'y'
+I0
+sg3
+S'he -rrb- should get equal'
+p233
+sg5
+I5
+sa(dp234
+S'y'
+I0
+sg3
+S'the bnp could see our'
+p235
+sg5
+I5
+sa(dp236
+S'y'
+I1
+sg3
+S'aboriginal communities know that as'
+p237
+sg5
+I5
+sa(dp238
+S'y'
+I1
+sg3
+S'i would consider the temporary'
+p239
+sg5
+I5
+sa(dp240
+S'y'
+I1
+sg3
+S"do n't think that people"
+p241
+sg5
+I5
+sa(dp242
+S'y'
+I0
+sg3
+S'them with some free drinks'
+p243
+sg5
+I5
+sa(dp244
+S'y'
+I1
+sg3
+S'guess you "sort of" left that'
+p245
+sg5
+I6
+sa(dp246
+S'y'
+I1
+sg3
+S'might go "so far" as to'
+p247
+sg5
+I6
+sa(dp248
+S'y'
+I1
+sg3
+S'the road some others were'
+p249
+sg5
+I5
+sa(dp250
+S'y'
+I1
+sg3
+S'_ i find it ironic'
+p251
+sg5
+I5
+sa(dp252
+S'y'
+I0
+sg3
+S'start we know about civil'
+p253
+sg5
+I5
+sa(dp254
+S'y'
+I0
+sg3
+S'to have read the grand'
+p255
+sg5
+I5
+sa(dp256
+S'y'
+I0
+sg3
+S'based on someone with a'
+p257
+sg5
+I5
+sa(dp258
+S'y'
+I1
+sg3
+S'start we could start by'
+p259
+sg5
+I5
+sa(dp260
+S'y'
+I1
+sg3
+S'start people like get involved'
+p261
+sg5
+I5
+sa(dp262
+S'y'
+I1
+sg3
+S'cost us almost a trillion'
+p263
+sg5
+I5
+sa(dp264
+S'y'
+I1
+sg3
+S'start i think such an'
+p265
+sg5
+I5
+sa(dp266
+S'y'
+I1
+sg3
+S'you might think of either'
+p267
+sg5
+I5
+sa(dp268
+S'y'
+I1
+sg3
+S'im not sure if the'
+p269
+sg5
+I5
+sa(dp270
+S'y'
+I0
+sg3
+S'if i could go back'
+p271
+sg5
+I5
+sa(dp272
+S'y'
+I0
+sg3
+S'that he should be spared'
+p273
+sg5
+I5
+sa(dp274
+S'y'
+I1
+sg3
+S'start there may be trouble'
+p275
+sg5
+I5
+sa(dp276
+S'y'
+I0
+sg3
+S'coming from someone who has'
+p277
+sg5
+I5
+sa(dp278
+S'y'
+I0
+sg3
+S'a good read and has'
+p279
+sg5
+I5
+sa(dp280
+S'y'
+I0
+sg3
+S'i dont like the sound'
+p281
+sg5
+I5
+sa(dp282
+S'y'
+I1
+sg3
+S'should hate someone stop stop'
+p283
+sg5
+I5
+sa(dp284
+S'y'
+I1
+sg3
+S'that seems like forever stop'
+p285
+sg5
+I5
+sa(dp286
+S'y'
+I1
+sg3
+S'ends he may speak out'
+p287
+sg5
+I5
+sa(dp288
+S'y'
+I1
+sg3
+S'i have "a few" posts setting'
+p289
+sg5
+I6
+sa(dp290
+S'y'
+I0
+sg3
+S"do n't expect the son"
+p291
+sg5
+I5
+sa(dp292
+S'y'
+I0
+sg3
+S"should n't expect their friends"
+p293
+sg5
+I5
+sa(dp294
+S'y'
+I0
+sg3
+S'know if someone has put'
+p295
+sg5
+I5
+sa(dp296
+S'y'
+I1
+sg3
+S'i would think that the'
+p297
+sg5
+I5
+sa(dp298
+S'y'
+I0
+sg3
+S'i heard about the bus'
+p299
+sg5
+I5
+sa(dp300
+S'y'
+I1
+sg3
+S'i \'m "a little" wary of'
+p301
+sg5
+I6
+sa(dp302
+S'y'
+I0
+sg3
+S'is the most inane thread'
+p303
+sg5
+I5
+sa(dp304
+S'y'
+I0
+sg3
+S'start start "i would say" then'
+p305
+sg5
+I6
+sa(dp306
+S'y'
+I1
+sg3
+S'start start most likely the'
+p307
+sg5
+I5
+sa(dp308
+S'y'
+I1
+sg3
+S'why something like 80 %'
+p309
+sg5
+I5
+sa(dp310
+S'y'
+I0
+sg3
+S'someone telling about a experience'
+p311
+sg5
+I5
+sa(dp312
+S'y'
+I1
+sg3
+S'guard is rough and ready'
+p313
+sg5
+I5
+sa(dp314
+S'y'
+I1
+sg3
+S'gas has "pretty much" settled where'
+p315
+sg5
+I6
+sa(dp316
+S'y'
+I1
+sg3
+S'you very much for dropping'
+p317
+sg5
+I5
+sa(dp318
+S'y'
+I0
+sg3
+S'start executing someone witha firing'
+p319
+sg5
+I5
+sa(dp320
+S'y'
+I0
+sg3
+S'worth thinking about stop stop'
+p321
+sg5
+I5
+sa(dp322
+S'y'
+I1
+sg3
+S"constitution ' could shed some"
+p323
+sg5
+I5
+sa(dp324
+S'y'
+I0
+sg3
+S"changed and someone else 's"
+p325
+sg5
+I5
+sa(dp326
+S'y'
+I0
+sg3
+S'an atheist about religion .'
+p327
+sg5
+I5
+sa(dp328
+S'y'
+I0
+sg3
+S'i would expect him to'
+p329
+sg5
+I5
+sa(dp330
+S'y'
+I0
+sg3
+S'start start read the post'
+p331
+sg5
+I5
+sa(dp332
+S'y'
+I1
+sg3
+S'start rather like tossing a'
+p333
+sg5
+I5
+sa(dp334
+S'y'
+I1
+sg3
+S'i know "a few" democrats spoke'
+p335
+sg5
+I6
+sa(dp336
+S'y'
+I0
+sg3
+S'been the most accurate and'
+p337
+sg5
+I5
+sa(dp338
+S'y'
+I0
+sg3
+S'language which could only be'
+p339
+sg5
+I5
+sa(dp340
+S'y'
+I1
+sg3
+S'on here assume this is'
+p341
+sg5
+I5
+sa(dp342
+S'y'
+I0
+sg3
+S'as i could stop stop'
+p343
+sg5
+I5
+sa(dp344
+S'y'
+I1
+sg3
+S'to run like that and'
+p345
+sg5
+I5
+sa(dp346
+S'y'
+I0
+sg3
+S'that is really crossing a'
+p347
+sg5
+I5
+sa(dp348
+S'y'
+I0
+sg3
+S'start as much as i'
+p349
+sg5
+I5
+sa(dp350
+S'y'
+I1
+sg3
+S'allegedly a general trend throughout'
+p351
+sg5
+I5
+sa(dp352
+S'y'
+I0
+sg3
+S'about very much when they'
+p353
+sg5
+I5
+sa(dp354
+S'y'
+I1
+sg3
+S'it is usually reacted in'
+p355
+sg5
+I5
+sa(dp356
+S'y'
+I1
+sg3
+S"concealed carry really does n't"
+p357
+sg5
+I5
+sa(dp358
+S'y'
+I1
+sg3
+S'start i think we all'
+p359
+sg5
+I5
+sa(dp360
+S'y'
+I1
+sg3
+S'a case like this stop'
+p361
+sg5
+I5
+sa(dp362
+S'y'
+I1
+sg3
+S'why i know that it'
+p363
+sg5
+I5
+sa(dp364
+S'y'
+I0
+sg3
+S'iansa headquarters could save us'
+p365
+sg5
+I5
+sa(dp366
+S'y'
+I0
+sg3
+S'skaters were much more committed'
+p367
+sg5
+I5
+sa(dp368
+S'y'
+I0
+sg3
+S"'m ambivalent about aa stop"
+p369
+sg5
+I5
+sa(dp370
+S'y'
+I1
+sg3
+S'like were "a few" weeks apart'
+p371
+sg5
+I6
+sa(dp372
+S'y'
+I0
+sg3
+S'is the most amazing thing'
+p373
+sg5
+I5
+sa(dp374
+S'y'
+I1
+sg3
+S'start i think this was'
+p375
+sg5
+I5
+sa(dp376
+S'y'
+I0
+sg3
+S'as the most admired woman'
+p377
+sg5
+I5
+sa(dp378
+S'y'
+I1
+sg3
+S'start i think race was'
+p379
+sg5
+I5
+sa(dp380
+S'y'
+I1
+sg3
+S'control things like weather stop'
+p381
+sg5
+I5
+sa(dp382
+S'y'
+I1
+sg3
+S'start we hear from iraq'
+p383
+sg5
+I5
+sa(dp384
+S'y'
+I1
+sg3
+S"'re feeling like this right"
+p385
+sg5
+I5
+sa(dp386
+S'y'
+I0
+sg3
+S'start i could feel them'
+p387
+sg5
+I5
+sa(dp388
+S'y'
+I0
+sg3
+S'run by someone too old'
+p389
+sg5
+I5
+sa(dp390
+S'y'
+I1
+sg3
+S'i dont think they were'
+p391
+sg5
+I5
+sa(dp392
+S'y'
+I1
+sg3
+S'he babbles like tm .'
+p393
+sg5
+I5
+sa(dp394
+S'y'
+I0
+sg3
+S'wrong that some kids have'
+p395
+sg5
+I5
+sa(dp396
+S'y'
+I1
+sg3
+S'as i read it stop'
+p397
+sg5
+I5
+sa(dp398
+S'y'
+I0
+sg3
+S'start he could never have'
+p399
+sg5
+I5
+sa(dp400
+S'y'
+I0
+sg3
+S'i still remember the smell'
+p401
+sg5
+I5
+sa(dp402
+S'y'
+I1
+sg3
+S"do n't know about anyone"
+p403
+sg5
+I5
+sa(dp404
+S'y'
+I0
+sg3
+S'start to some it is'
+p405
+sg5
+I5
+sa(dp406
+S'y'
+I1
+sg3
+S'i personally find no productive'
+p407
+sg5
+I5
+sa(dp408
+S'y'
+I1
+sg3
+S'is probably some wording differences'
+p409
+sg5
+I5
+sa(dp410
+S'y'
+I1
+sg3
+S"do n't know where your"
+p411
+sg5
+I5
+sa(dp412
+S'y'
+I1
+sg3
+S"of them think i 'm"
+p413
+sg5
+I5
+sa(dp414
+S'y'
+I0
+sg3
+S'glenbeck would like to restore'
+p415
+sg5
+I5
+sa(dp416
+S'y'
+I0
+sg3
+S'kind remarks about their child'
+p417
+sg5
+I5
+sa(dp418
+S'y'
+I1
+sg3
+S'making so much money when'
+p419
+sg5
+I5
+sa(dp420
+S'y'
+I0
+sg3
+S'be bolder about the role'
+p421
+sg5
+I5
+sa(dp422
+S'y'
+I0
+sg3
+S"'s not about people ."
+p423
+sg5
+I5
+sa(dp424
+S'y'
+I0
+sg3
+S"i 've read it and"
+p425
+sg5
+I5
+sa(dp426
+S'y'
+I1
+sg3
+S'i can understand why many'
+p427
+sg5
+I5
+sa(dp428
+S'y'
+I0
+sg3
+S'it is about the definitin'
+p429
+sg5
+I5
+sa(dp430
+S'y'
+I1
+sg3
+S'start i think it would'
+p431
+sg5
+I5
+sa(dp432
+S'y'
+I1
+sg3
+S'but i think it is'
+p433
+sg5
+I5
+sa(dp434
+S'y'
+I1
+sg3
+S"do n't think that a"
+p435
+sg5
+I5
+sa(dp436
+S'y'
+I1
+sg3
+S'life than "a couple" of men'
+p437
+sg5
+I6
+sa(dp438
+S'y'
+I0
+sg3
+S'start i know the question'
+p439
+sg5
+I5
+sa(dp440
+S'y'
+I0
+sg3
+S'did is completely overshadowed by'
+p441
+sg5
+I5
+sa(dp442
+S'y'
+I0
+sg3
+S'you will find too many'
+p443
+sg5
+I5
+sa(dp444
+S'y'
+I1
+sg3
+S'start pretty much echoes other'
+p445
+sg5
+I5
+sa(dp446
+S'y'
+I1
+sg3
+S'language eliminating some of the'
+p447
+sg5
+I5
+sa(dp448
+S'y'
+I1
+sg3
+S'that \'s "kind of" a `'
+p449
+sg5
+I6
+sa(dp450
+S'y'
+I1
+sg3
+S'but its mostly high end'
+p451
+sg5
+I5
+sa(dp452
+S'y'
+I0
+sg3
+S'yes heteros sometimes abuse their'
+p453
+sg5
+I5
+sa(dp454
+S'y'
+I1
+sg3
+S'the most basic things because'
+p455
+sg5
+I5
+sa(dp456
+S'y'
+I0
+sg3
+S"did n't understand the point"
+p457
+sg5
+I5
+sa(dp458
+S'y'
+I0
+sg3
+S"n't even imagine what would"
+p459
+sg5
+I5
+sa(dp460
+S'y'
+I0
+sg3
+S'start i know you were'
+p461
+sg5
+I5
+sa(dp462
+S'y'
+I0
+sg3
+S'start the really interesting thing'
+p463
+sg5
+I5
+sa(dp464
+S'y'
+I0
+sg3
+S"n't really know anything about"
+p465
+sg5
+I5
+sa(dp466
+S'y'
+I1
+sg3
+S"n't really remember much of"
+p467
+sg5
+I5
+sa(dp468
+S'y'
+I1
+sg3
+S'mistake : someone is stop'
+p469
+sg5
+I5
+sa(dp470
+S'y'
+I0
+sg3
+S'to kill someone else and'
+p471
+sg5
+I5
+sa(dp472
+S'y'
+I1
+sg3
+S'start you apparently are very'
+p473
+sg5
+I5
+sa(dp474
+S'y'
+I0
+sg3
+S'my squadron about excessively colorful'
+p475
+sg5
+I5
+sa(dp476
+S'y'
+I1
+sg3
+S'how he might react and'
+p477
+sg5
+I5
+sa(dp478
+S'y'
+I1
+sg3
+S'i really think they are'
+p479
+sg5
+I5
+sa(dp480
+S'y'
+I1
+sg3
+S'you \'ve "pretty much" summed up'
+p481
+sg5
+I6
+sa(dp482
+S'y'
+I1
+sg3
+S'start so much emphasize is'
+p483
+sg5
+I5
+sa(dp484
+S'y'
+I1
+sg3
+S"i 'm practically an expert"
+p485
+sg5
+I5
+sa(dp486
+S'y'
+I1
+sg3
+S'hit the general election stop'
+p487
+sg5
+I5
+sa(dp488
+S'y'
+I0
+sg3
+S'start forget about color .'
+p489
+sg5
+I5
+sa(dp490
+S'y'
+I0
+sg3
+S'attends some "kind of" meeting with'
+p491
+sg5
+I6
+sa(dp492
+S'y'
+I0
+sg3
+S'we would like to have'
+p493
+sg5
+I5
+sa(dp494
+S'y'
+I1
+sg3
+S"did n't really know anything"
+p495
+sg5
+I5
+sa(dp496
+S'y'
+I1
+sg3
+S'i being like this !!!'
+p497
+sg5
+I5
+sa(dp498
+S'y'
+I0
+sg3
+S'on what should be done'
+p499
+sg5
+I5
+sa(dp500
+S'y'
+I0
+sg3
+S'friend and someone i click'
+p501
+sg5
+I5
+sa(dp502
+S'y'
+I1
+sg3
+S'family has basically said they'
+p503
+sg5
+I5
+sa(dp504
+S'y'
+I1
+sg3
+S'example who think people like'
+p505
+sg5
+I5
+sa(dp506
+S'y'
+I1
+sg3
+S'into ford "a few" months ago'
+p507
+sg5
+I6
+sa(dp508
+S'y'
+I1
+sg3
+S'start start about a week'
+p509
+sg5
+I5
+sa(dp510
+S'y'
+I0
+sg3
+S'no idea about their own'
+p511
+sg5
+I5
+sa(dp512
+S'y'
+I1
+sg3
+S'if i think i can'
+p513
+sg5
+I5
+sa(dp514
+S'y'
+I0
+sg3
+S'i was really close with'
+p515
+sg5
+I5
+sa(dp516
+S'y'
+I1
+sg3
+S'posts i find it quite'
+p517
+sg5
+I5
+sa(dp518
+S'y'
+I1
+sg3
+S"do n't know what kind"
+p519
+sg5
+I5
+sa(dp520
+S'y'
+I1
+sg3
+S'faced by some of the'
+p521
+sg5
+I5
+sa(dp522
+S'y'
+I0
+sg3
+S"n't think about all the"
+p523
+sg5
+I5
+sa(dp524
+S'y'
+I0
+sg3
+S'to go about the `'
+p525
+sg5
+I5
+sa(dp526
+S'y'
+I1
+sg3
+S'nothing they propose encourages entrepreneurialism'
+p527
+sg5
+I5
+sa(dp528
+S'y'
+I1
+sg3
+S"do n't know how to"
+p529
+sg5
+I5
+sa(dp530
+S'y'
+I1
+sg3
+S"start i guess it 's"
+p531
+sg5
+I5
+sa(dp532
+S'y'
+I1
+sg3
+S'bigotry is about to be'
+p533
+sg5
+I5
+sa(dp534
+S'y'
+I1
+sg3
+S'start i feel the only'
+p535
+sg5
+I5
+sa(dp536
+S'y'
+I0
+sg3
+S'start then some va counselor'
+p537
+sg5
+I5
+sa(dp538
+S'y'
+I1
+sg3
+S'and i think that lexan'
+p539
+sg5
+I5
+sa(dp540
+S'y'
+I0
+sg3
+S'that wins should have first'
+p541
+sg5
+I5
+sa(dp542
+S'y'
+I1
+sg3
+S'day sent "a bunch" of pro-voucher'
+p543
+sg5
+I6
+sa(dp544
+S'y'
+I1
+sg3
+S'which is "pretty much" the same'
+p545
+sg5
+I6
+sa(dp546
+S'y'
+I1
+sg3
+S'are not necessarily bad stop'
+p547
+sg5
+I5
+sa(dp548
+S'y'
+I1
+sg3
+S'have triggered some areas that'
+p549
+sg5
+I5
+sa(dp550
+S'y'
+I0
+sg3
+S'start i remember slugs on'
+p551
+sg5
+I5
+sa(dp552
+S'y'
+I1
+sg3
+S'the us like a third'
+p553
+sg5
+I5
+sa(dp554
+S'y'
+I0
+sg3
+S"'re talking about but that"
+p555
+sg5
+I5
+sa(dp556
+S'y'
+I0
+sg3
+S'other people like the look'
+p557
+sg5
+I5
+sa(dp558
+S'y'
+I1
+sg3
+S"i feel like i 'm"
+p559
+sg5
+I5
+sa(dp560
+S'y'
+I0
+sg3
+S'start how about this stop'
+p561
+sg5
+I5
+sa(dp562
+S'y'
+I1
+sg3
+S'yes just like old paintrecycling'
+p563
+sg5
+I5
+sa(dp564
+S'y'
+I0
+sg3
+S'start you could have continued'
+p565
+sg5
+I5
+sa(dp566
+S'y'
+I0
+sg3
+S"'ve crossed some kind of"
+p567
+sg5
+I5
+sa(dp568
+S'y'
+I0
+sg3
+S'got is some personal claim'
+p569
+sg5
+I5
+sa(dp570
+S'y'
+I0
+sg3
+S'just as much as the'
+p571
+sg5
+I5
+sa(dp572
+S'y'
+I0
+sg3
+S'but not fair tradepollutionparis hilton'
+p573
+sg5
+I5
+sa(dp574
+S'y'
+I1
+sg3
+S'start i think i might'
+p575
+sg5
+I5
+sa(dp576
+S'y'
+I0
+sg3
+S'that people should bare some'
+p577
+sg5
+I5
+sa(dp578
+S'y'
+I1
+sg3
+S'doing something like this stop'
+p579
+sg5
+I5
+sa(dp580
+S'y'
+I1
+sg3
+S'start he might try growing'
+p581
+sg5
+I5
+sa(dp582
+S'y'
+I0
+sg3
+S"let 's consider the opposite"
+p583
+sg5
+I5
+sa(dp584
+S'y'
+I0
+sg3
+S'start we should never be'
+p585
+sg5
+I5
+sa(dp586
+S'y'
+I1
+sg3
+S'think it might have something'
+p587
+sg5
+I5
+sa(dp588
+S'y'
+I0
+sg3
+S'i think most people are'
+p589
+sg5
+I5
+sa(dp590
+S'y'
+I1
+sg3
+S'start how could i be'
+p591
+sg5
+I5
+sa(dp592
+S'y'
+I1
+sg3
+S'they are likely to engage'
+p593
+sg5
+I5
+sa(dp594
+S'y'
+I1
+sg3
+S'he should think about his'
+p595
+sg5
+I5
+sa(dp596
+S'y'
+I1
+sg3
+S'if this really falls through'
+p597
+sg5
+I5
+sa(dp598
+S'y'
+I0
+sg3
+S'because they feel better when'
+p599
+sg5
+I5
+sa(dp600
+S'y'
+I1
+sg3
+S'no one really concerned about'
+p601
+sg5
+I5
+sa(dp602
+S'y'
+I0
+sg3
+S'older and understand how the'
+p603
+sg5
+I5
+sa(dp604
+S'y'
+I1
+sg3
+S'a bit like italians when'
+p605
+sg5
+I5
+sa(dp606
+S'y'
+I0
+sg3
+S'to rant about gypsies so'
+p607
+sg5
+I5
+sa(dp608
+S'y'
+I0
+sg3
+S'how about some of your'
+p609
+sg5
+I5
+sa(dp610
+S'y'
+I1
+sg3
+S'look like someone took a'
+p611
+sg5
+I5
+sa(dp612
+S'y'
+I0
+sg3
+S'out and should be turfed'
+p613
+sg5
+I5
+sa(dp614
+S'y'
+I1
+sg3
+S'it took "a bit" of getting'
+p615
+sg5
+I6
+sa(dp616
+S'y'
+I1
+sg3
+S'whom morons like you consider'
+p617
+sg5
+I5
+sa(dp618
+S'y'
+I1
+sg3
+S'start it may sound a'
+p619
+sg5
+I5
+sa(dp620
+S'y'
+I1
+sg3
+S'these incidents may not seem'
+p621
+sg5
+I5
+sa(dp622
+S'y'
+I1
+sg3
+S"that we know it 's"
+p623
+sg5
+I5
+sa(dp624
+S'y'
+I1
+sg3
+S'there \'s "a bunch" of males'
+p625
+sg5
+I6
+sa(dp626
+S'y'
+I1
+sg3
+S'guy makes "a few" blunders stop'
+p627
+sg5
+I6
+sa(dp628
+S'y'
+I1
+sg3
+S'and is really a tax'
+p629
+sg5
+I5
+sa(dp630
+S'y'
+I1
+sg3
+S"do n't know if one"
+p631
+sg5
+I5
+sa(dp632
+S'y'
+I0
+sg3
+S'be more fair & balanced'
+p633
+sg5
+I5
+sa(dp634
+S'y'
+I0
+sg3
+S'start he should have kept'
+p635
+sg5
+I5
+sa(dp636
+S'y'
+I1
+sg3
+S'you \'re "kind of" full of'
+p637
+sg5
+I6
+sa(dp638
+S'y'
+I0
+sg3
+S'... many like his social'
+p639
+sg5
+I5
+sa(dp640
+S'y'
+I0
+sg3
+S'start i feel myself distancing'
+p641
+sg5
+I5
+sa(dp642
+S'y'
+I0
+sg3
+S'not speak about it publicly'
+p643
+sg5
+I5
+sa(dp644
+S'y'
+I1
+sg3
+S'it was apparently shot down'
+p645
+sg5
+I5
+sa(dp646
+S'y'
+I1
+sg3
+S'i deceive someone stop stop'
+p647
+sg5
+I5
+sa(dp648
+S'y'
+I1
+sg3
+S'start or like oil companies'
+p649
+sg5
+I5
+sa(dp650
+S'y'
+I0
+sg3
+S'start you know i love'
+p651
+sg5
+I5
+sa(dp652
+S'y'
+I0
+sg3
+S'newspaper headline about `` chinese'
+p653
+sg5
+I5
+sa(dp654
+S'y'
+I1
+sg3
+S'who were mostly concubines or'
+p655
+sg5
+I5
+sa(dp656
+S'y'
+I0
+sg3
+S'and i know a lot'
+p657
+sg5
+I5
+sa(dp658
+S'y'
+I0
+sg3
+S'when he could not defend'
+p659
+sg5
+I5
+sa(dp660
+S'y'
+I0
+sg3
+S"n't worry about him -"
+p661
+sg5
+I5
+sa(dp662
+S'y'
+I1
+sg3
+S'more it "looks like" zimmerman acted'
+p663
+sg5
+I6
+sa(dp664
+S'y'
+I1
+sg3
+S'riddles i expect and he'
+p665
+sg5
+I5
+sa(dp666
+S'y'
+I0
+sg3
+S'i only read up through'
+p667
+sg5
+I5
+sa(dp668
+S'y'
+I1
+sg3
+S'that i hear all the'
+p669
+sg5
+I5
+sa(dp670
+S'y'
+I0
+sg3
+S'americans care about other people'
+p671
+sg5
+I5
+sa(dp672
+S'y'
+I0
+sg3
+S'is either totally sincere stop'
+p673
+sg5
+I5
+sa(dp674
+S'y'
+I1
+sg3
+S'the budget like obama is'
+p675
+sg5
+I5
+sa(dp676
+S'y'
+I1
+sg3
+S'had attended several of ray'
+p677
+sg5
+I5
+sa(dp678
+S'y'
+I1
+sg3
+S'start i read this from'
+p679
+sg5
+I5
+sa(dp680
+S'y'
+I1
+sg3
+S'are expecting some retaliation from'
+p681
+sg5
+I5
+sa(dp682
+S'y'
+I0
+sg3
+S'furthermore i like to imagine'
+p683
+sg5
+I5
+sa(dp684
+S'y'
+I1
+sg3
+S'that i think anyone who'
+p685
+sg5
+I5
+sa(dp686
+S'y'
+I1
+sg3
+S'one was really looking at'
+p687
+sg5
+I5
+sa(dp688
+S'y'
+I0
+sg3
+S'that i feel as though'
+p689
+sg5
+I5
+sa(dp690
+S'y'
+I0
+sg3
+S'we talked about costs .'
+p691
+sg5
+I5
+sa(dp692
+S'y'
+I0
+sg3
+S'been open about his intentions'
+p693
+sg5
+I5
+sa(dp694
+S'y'
+I1
+sg3
+S'makes me think air strikes'
+p695
+sg5
+I5
+sa(dp696
+S'y'
+I0
+sg3
+S'when their really dumb give'
+p697
+sg5
+I5
+sa(dp698
+S'y'
+I1
+sg3
+S'start you may have a'
+p699
+sg5
+I5
+sa(dp700
+S'y'
+I0
+sg3
+S'cancer or some other respiratory'
+p701
+sg5
+I5
+sa(dp702
+S'y'
+I1
+sg3
+S'he killed some ppl and'
+p703
+sg5
+I5
+sa(dp704
+S'y'
+I1
+sg3
+S'fgw own "a few" of the'
+p705
+sg5
+I6
+sa(dp706
+S'y'
+I1
+sg3
+S'argument is really falling to'
+p707
+sg5
+I5
+sa(dp708
+S'y'
+I0
+sg3
+S"it 's really odd to"
+p709
+sg5
+I5
+sa(dp710
+S'y'
+I0
+sg3
+S'worse the most of that'
+p711
+sg5
+I5
+sa(dp712
+S'y'
+I0
+sg3
+S'he neutralized most of the'
+p713
+sg5
+I5
+sa(dp714
+S'y'
+I0
+sg3
+S'warned of possible sabotage of'
+p715
+sg5
+I5
+sa(dp716
+S'y'
+I0
+sg3
+S"i 'm really confused by"
+p717
+sg5
+I5
+sa(dp718
+S'y'
+I1
+sg3
+S': seats like those stop'
+p719
+sg5
+I5
+sa(dp720
+S'y'
+I1
+sg3
+S'start start maybe taking care'
+p721
+sg5
+I5
+sa(dp722
+S'y'
+I0
+sg3
+S'felt like someone smashed a'
+p723
+sg5
+I5
+sa(dp724
+S'y'
+I0
+sg3
+S'negative crap about this kid'
+p725
+sg5
+I5
+sa(dp726
+S'y'
+I1
+sg3
+S'the us much of it'
+p727
+sg5
+I5
+sa(dp728
+S'y'
+I1
+sg3
+S'should be possible to measure'
+p729
+sg5
+I5
+sa(dp730
+S'y'
+I1
+sg3
+S"'ve used about 1000 people"
+p731
+sg5
+I5
+sa(dp732
+S'y'
+I0
+sg3
+S'and i know of another'
+p733
+sg5
+I5
+sa(dp734
+S'y'
+I1
+sg3
+S'start so much for faux'
+p735
+sg5
+I5
+sa(dp736
+S'y'
+I0
+sg3
+S'and crying about how difficult'
+p737
+sg5
+I5
+sa(dp738
+S'y'
+I0
+sg3
+S'to a completely british culture'
+p739
+sg5
+I5
+sa(dp740
+S'y'
+I0
+sg3
+S'constantly getting some sort off'
+p741
+sg5
+I5
+sa(dp742
+S'y'
+I0
+sg3
+S'of the most pointless replies'
+p743
+sg5
+I5
+sa(dp744
+S'y'
+I1
+sg3
+S'start i know this may'
+p745
+sg5
+I5
+sa(dp746
+S'y'
+I1
+sg3
+S'we even think think if'
+p747
+sg5
+I5
+sa(dp748
+S'y'
+I0
+sg3
+S'do a much superior scan'
+p749
+sg5
+I5
+sa(dp750
+S'y'
+I1
+sg3
+S'group also believe that president'
+p751
+sg5
+I5
+sa(dp752
+S'y'
+I0
+sg3
+S"do n't know what greed"
+p753
+sg5
+I5
+sa(dp754
+S'y'
+I0
+sg3
+S'start i remember the anti-gypsy'
+p755
+sg5
+I5
+sa(dp756
+S'y'
+I0
+sg3
+S'to a "kind of" negative equity'
+p757
+sg5
+I6
+sa(dp758
+S'y'
+I0
+sg3
+S'make it possible fr people'
+p759
+sg5
+I5
+sa(dp760
+S'y'
+I1
+sg3
+S'i still believe evolution is'
+p761
+sg5
+I5
+sa(dp762
+S'y'
+I1
+sg3
+S'is that some of the'
+p763
+sg5
+I5
+sa(dp764
+S'y'
+I0
+sg3
+S'you too much and define'
+p765
+sg5
+I5
+sa(dp766
+S'y'
+I1
+sg3
+S'trade just like the un'
+p767
+sg5
+I5
+sa(dp768
+S'y'
+I0
+sg3
+S'think i could cope having'
+p769
+sg5
+I5
+sa(dp770
+S'y'
+I1
+sg3
+S'touch with most people from'
+p771
+sg5
+I5
+sa(dp772
+S'y'
+I1
+sg3
+S'of looking like a racist'
+p773
+sg5
+I5
+sa(dp774
+S'y'
+I0
+sg3
+S'me the most about these'
+p775
+sg5
+I5
+sa(dp776
+S'y'
+I1
+sg3
+S'rich douchebags like romney and'
+p777
+sg5
+I5
+sa(dp778
+S'y'
+I1
+sg3
+S'side effects might not be'
+p779
+sg5
+I5
+sa(dp780
+S'y'
+I0
+sg3
+S'start midwesterners feel culturally marginalized'
+p781
+sg5
+I5
+sa(dp782
+S'y'
+I1
+sg3
+S'older contacts may be relatively'
+p783
+sg5
+I5
+sa(dp784
+S'y'
+I1
+sg3
+S'a sea could form in'
+p785
+sg5
+I5
+sa(dp786
+S'y'
+I0
+sg3
+S'twice as much if it'
+p787
+sg5
+I5
+sa(dp788
+S'y'
+I0
+sg3
+S'and war should be matters'
+p789
+sg5
+I5
+sa(dp790
+S'y'
+I0
+sg3
+S'of a much bigger issue'
+p791
+sg5
+I5
+sa(dp792
+S'y'
+I0
+sg3
+S'he/she will know what is'
+p793
+sg5
+I5
+sa(dp794
+S'y'
+I0
+sg3
+S'start consider some private maths'
+p795
+sg5
+I5
+sa(dp796
+S'y'
+I0
+sg3
+S'happens i could tolerate the'
+p797
+sg5
+I5
+sa(dp798
+S'y'
+I0
+sg3
+S'posted by somebody else then'
+p799
+sg5
+I5
+sa(dp800
+S'y'
+I1
+sg3
+S'it seems like the 1'
+p801
+sg5
+I5
+sa(dp802
+S'y'
+I0
+sg3
+S'out and about tomorrow .'
+p803
+sg5
+I5
+sa(dp804
+S'y'
+I0
+sg3
+S'these options should be a'
+p805
+sg5
+I5
+sa(dp806
+S'y'
+I1
+sg3
+S"it 's like having a"
+p807
+sg5
+I5
+sa(dp808
+S'y'
+I0
+sg3
+S'start taxes should be simplified'
+p809
+sg5
+I5
+sa(dp810
+S'y'
+I1
+sg3
+S'start maybe some socialists can'
+p811
+sg5
+I5
+sa(dp812
+S'y'
+I0
+sg3
+S'to talk about taxes3 -rrb-'
+p813
+sg5
+I5
+sa(dp814
+S'y'
+I1
+sg3
+S'and the like would be'
+p815
+sg5
+I5
+sa(dp816
+S'y'
+I0
+sg3
+S'and try some counselling .'
+p817
+sg5
+I5
+sa(dp818
+S'y'
+I1
+sg3
+S'down for "a few" minutes .'
+p819
+sg5
+I6
+sa(dp820
+S'y'
+I1
+sg3
+S'start i think age uk'
+p821
+sg5
+I5
+sa(dp822
+S'y'
+I1
+sg3
+S"do n't believe she was"
+p823
+sg5
+I5
+sa(dp824
+S'y'
+I0
+sg3
+S"n't talked about intellect stop"
+p825
+sg5
+I5
+sa(dp826
+S'y'
+I1
+sg3
+S'nuclear bomb could go off'
+p827
+sg5
+I5
+sa(dp828
+S'y'
+I1
+sg3
+S'that is somewhat true stop'
+p829
+sg5
+I5
+sa(dp830
+S'y'
+I1
+sg3
+S'thread that might offer more'
+p831
+sg5
+I5
+sa(dp832
+S'y'
+I1
+sg3
+S'i felt like replying yeah'
+p833
+sg5
+I5
+sa(dp834
+S'y'
+I0
+sg3
+S"n't withdraw much needed benefits"
+p835
+sg5
+I5
+sa(dp836
+S'y'
+I0
+sg3
+S'start he should have announced'
+p837
+sg5
+I5
+sa(dp838
+S'y'
+I0
+sg3
+S'be passionate about chemistry when'
+p839
+sg5
+I5
+sa(dp840
+S'y'
+I1
+sg3
+S'look how much goes to'
+p841
+sg5
+I5
+sa(dp842
+S'y'
+I0
+sg3
+S'... i know what im'
+p843
+sg5
+I5
+sa(dp844
+S'y'
+I1
+sg3
+S'maybe they could just put'
+p845
+sg5
+I5
+sa(dp846
+S'y'
+I1
+sg3
+S'hear soap might be could'
+p847
+sg5
+I5
+sa(dp848
+S'y'
+I1
+sg3
+S'i was almost my own'
+p849
+sg5
+I5
+sa(dp850
+S'y'
+I1
+sg3
+S'she is like the merchants'
+p851
+sg5
+I5
+sa(dp852
+S'y'
+I1
+sg3
+S'start i know there is'
+p853
+sg5
+I5
+sa(dp854
+S'y'
+I0
+sg3
+S'leftists moan about how the'
+p855
+sg5
+I5
+sa(dp856
+S'y'
+I0
+sg3
+S"n't even know the status"
+p857
+sg5
+I5
+sa(dp858
+S'y'
+I0
+sg3
+S'information online about how to'
+p859
+sg5
+I5
+sa(dp860
+S'y'
+I0
+sg3
+S'it went completely over your'
+p861
+sg5
+I5
+sa(dp862
+S'y'
+I1
+sg3
+S'he did some good things'
+p863
+sg5
+I5
+sa(dp864
+S'y'
+I0
+sg3
+S'are the most anti -'
+p865
+sg5
+I5
+sa(dp866
+S'y'
+I0
+sg3
+S"n't know about them and"
+p867
+sg5
+I5
+sa(dp868
+S'y'
+I1
+sg3
+S'bullet-headed hucksters like sheriff paul'
+p869
+sg5
+I5
+sa(dp870
+S'y'
+I0
+sg3
+S'start you know why steffyweffie'
+p871
+sg5
+I5
+sa(dp872
+S'y'
+I1
+sg3
+S'way too much stop stop'
+p873
+sg5
+I5
+sa(dp874
+S'y'
+I1
+sg3
+S'they have nearly zero chance'
+p875
+sg5
+I5
+sa(dp876
+S'y'
+I1
+sg3
+S'start they think it was'
+p877
+sg5
+I5
+sa(dp878
+S'y'
+I0
+sg3
+S'you know about monopolies stop'
+p879
+sg5
+I5
+sa(dp880
+S'y'
+I1
+sg3
+S'with discussions like this is'
+p881
+sg5
+I5
+sa(dp882
+S'y'
+I1
+sg3
+S'become more like robots -lrb-'
+p883
+sg5
+I5
+sa(dp884
+S'y'
+I0
+sg3
+S'of how much mass there'
+p885
+sg5
+I5
+sa(dp886
+S'y'
+I1
+sg3
+S'unattached for "a couple" of years'
+p887
+sg5
+I6
+sa(dp888
+S'y'
+I1
+sg3
+S'now for almost 8 years'
+p889
+sg5
+I5
+sa(dp890
+S'y'
+I1
+sg3
+S'if he really believes in'
+p891
+sg5
+I5
+sa(dp892
+S'y'
+I0
+sg3
+S'do not understand your repeated'
+p893
+sg5
+I5
+sa(dp894
+S'y'
+I0
+sg3
+S'start you could buy a'
+p895
+sg5
+I5
+sa(dp896
+S'y'
+I0
+sg3
+S'start paris really is the'
+p897
+sg5
+I5
+sa(dp898
+S'y'
+I1
+sg3
+S'lauderdale i guess - not'
+p899
+sg5
+I5
+sa(dp900
+S'y'
+I1
+sg3
+S'start i assume it wasnt'
+p901
+sg5
+I5
+sa(dp902
+S'y'
+I0
+sg3
+S'own decisions about things .'
+p903
+sg5
+I5
+sa(dp904
+S'y'
+I0
+sg3
+S'the shoes could be worn'
+p905
+sg5
+I5
+sa(dp906
+S'y'
+I1
+sg3
+S'do not know what is'
+p907
+sg5
+I5
+sa(dp908
+S'y'
+I0
+sg3
+S'do not know of in'
+p909
+sg5
+I5
+sa(dp910
+S'y'
+I1
+sg3
+S'apologize so often and so'
+p911
+sg5
+I5
+sa(dp912
+S'y'
+I1
+sg3
+S'not so much in regard'
+p913
+sg5
+I5
+sa(dp914
+S'y'
+I1
+sg3
+S'i am sure he is'
+p915
+sg5
+I5
+sa(dp916
+S'y'
+I1
+sg3
+S'in school basically his whole'
+p917
+sg5
+I5
+sa(dp918
+S'y'
+I1
+sg3
+S'be structured like medicare ...'
+p919
+sg5
+I5
+sa(dp920
+S'y'
+I1
+sg3
+S'to make sure that her'
+p921
+sg5
+I5
+sa(dp922
+S'y'
+I0
+sg3
+S'you think about her person'
+p923
+sg5
+I5
+sa(dp924
+S'y'
+I0
+sg3
+S'and michelle could have fed'
+p925
+sg5
+I5
+sa(dp926
+S'y'
+I1
+sg3
+S'reality : like so many'
+p927
+sg5
+I5
+sa(dp928
+S'y'
+I0
+sg3
+S'learn so much more about'
+p929
+sg5
+I5
+sa(dp930
+S'y'
+I1
+sg3
+S"i 'm mostly the same"
+p931
+sg5
+I5
+sa(dp932
+S'y'
+I1
+sg3
+S'mario monti could become the'
+p933
+sg5
+I5
+sa(dp934
+S'y'
+I0
+sg3
+S"'s something about the birth"
+p935
+sg5
+I5
+sa(dp936
+S'y'
+I0
+sg3
+S'guess if someone loves you'
+p937
+sg5
+I5
+sa(dp938
+S'y'
+I1
+sg3
+S"did n't appear so noble"
+p939
+sg5
+I5
+sa(dp940
+S'y'
+I0
+sg3
+S'as some "sort of" ` get'
+p941
+sg5
+I6
+sa(dp942
+S'y'
+I1
+sg3
+S'far i understand you take'
+p943
+sg5
+I5
+sa(dp944
+S'y'
+I0
+sg3
+S'you feel about the 50'
+p945
+sg5
+I5
+sa(dp946
+S'y'
+I0
+sg3
+S'start how about put it'
+p947
+sg5
+I5
+sa(dp948
+S'y'
+I1
+sg3
+S'in wichita about 20 yrs'
+p949
+sg5
+I5
+sa(dp950
+S'y'
+I1
+sg3
+S'start i know i can'
+p951
+sg5
+I5
+sa(dp952
+S'y'
+I1
+sg3
+S'start deals like that do'
+p953
+sg5
+I5
+sa(dp954
+S'y'
+I0
+sg3
+S'if i should have sent'
+p955
+sg5
+I5
+sa(dp956
+S'y'
+I1
+sg3
+S'someone new "i would say" stop stop'
+p957
+sg5
+I7
+sa(dp958
+S'y'
+I1
+sg3
+S'obamas critrics feel he may'
+p959
+sg5
+I5
+sa(dp960
+S'y'
+I0
+sg3
+S'fully and totally agree .'
+p961
+sg5
+I5
+sa(dp962
+S'y'
+I0
+sg3
+S"to i know i 'm"
+p963
+sg5
+I5
+sa(dp964
+S'y'
+I1
+sg3
+S"'s not likely that any"
+p965
+sg5
+I5
+sa(dp966
+S'y'
+I1
+sg3
+S'i dont think it was'
+p967
+sg5
+I5
+sa(dp968
+S'y'
+I0
+sg3
+S'uni but guess what stop'
+p969
+sg5
+I5
+sa(dp970
+S'y'
+I0
+sg3
+S'in which someone shagging someone'
+p971
+sg5
+I5
+sa(dp972
+S'y'
+I1
+sg3
+S'what i think is going'
+p973
+sg5
+I5
+sa(dp974
+S'y'
+I0
+sg3
+S'sorry dont remember the catalyst'
+p975
+sg5
+I5
+sa(dp976
+S'y'
+I1
+sg3
+S"dont ' read into that"
+p977
+sg5
+I5
+sa(dp978
+S'y'
+I0
+sg3
+S"'m talking about is a"
+p979
+sg5
+I5
+sa(dp980
+S'y'
+I1
+sg3
+S'start i suggest the same'
+p981
+sg5
+I5
+sa(dp982
+S'y'
+I1
+sg3
+S'start i think i must'
+p983
+sg5
+I5
+sa(dp984
+S'y'
+I1
+sg3
+S'reinstatedit might "look like" the america'
+p985
+sg5
+I6
+sa(dp986
+S'y'
+I0
+sg3
+S'like we know each other'
+p987
+sg5
+I5
+sa(dp988
+S'y'
+I1
+sg3
+S'start it may not happen'
+p989
+sg5
+I5
+sa(dp990
+S'y'
+I1
+sg3
+S"do n't know where you"
+p991
+sg5
+I5
+sa(dp992
+S'y'
+I1
+sg3
+S'supposedly stored several boxes of'
+p993
+sg5
+I5
+sa(dp994
+S'y'
+I0
+sg3
+S"do n't understand why you"
+p995
+sg5
+I5
+sa(dp996
+S'y'
+I0
+sg3
+S'start they could easily do'
+p997
+sg5
+I5
+sa(dp998
+S'y'
+I1
+sg3
+S'position of some minorities -lrb-'
+p999
+sg5
+I5
+sa(dp1000
+S'y'
+I0
+sg3
+S"'s money should not be"
+p1001
+sg5
+I5
+sa(dp1002
+S'y'
+I1
+sg3
+S'income or like my dad'
+p1003
+sg5
+I5
+sa(dp1004
+S'y'
+I0
+sg3
+S"ca n't read maps3 -rrb-"
+p1005
+sg5
+I5
+sa(dp1006
+S'y'
+I0
+sg3
+S'if i understand the gist'
+p1007
+sg5
+I5
+sa(dp1008
+S'y'
+I0
+sg3
+S'obviously think about the mental'
+p1009
+sg5
+I5
+sa(dp1010
+S'y'
+I0
+sg3
+S'start teachers should definitely keep'
+p1011
+sg5
+I5
+sa(dp1012
+S'y'
+I1
+sg3
+S'the best estimate of the'
+p1013
+sg5
+I5
+sa(dp1014
+S'y'
+I1
+sg3
+S'it was like watching rooney'
+p1015
+sg5
+I5
+sa(dp1016
+S'y'
+I1
+sg3
+S'start quite "a few" were promoted'
+p1017
+sg5
+I6
+sa(dp1018
+S'y'
+I0
+sg3
+S'a non-reply like this is'
+p1019
+sg5
+I5
+sa(dp1020
+S'y'
+I1
+sg3
+S'life they could have had'
+p1021
+sg5
+I5
+sa(dp1022
+S'y'
+I1
+sg3
+S'some still believe not a'
+p1023
+sg5
+I5
+sa(dp1024
+S'y'
+I0
+sg3
+S'always been fair gamebwahahahaa !'
+p1025
+sg5
+I5
+sa(dp1026
+S'y'
+I1
+sg3
+S'and i think occasionally we'
+p1027
+sg5
+I5
+sa(dp1028
+S'y'
+I0
+sg3
+S'some people should know better'
+p1029
+sg5
+I5
+sa(dp1030
+S'y'
+I1
+sg3
+S'start i believe beck does'
+p1031
+sg5
+I5
+sa(dp1032
+S'y'
+I0
+sg3
+S'before i believe one word'
+p1033
+sg5
+I5
+sa(dp1034
+S'y'
+I0
+sg3
+S'protesters that someone would come'
+p1035
+sg5
+I5
+sa(dp1036
+S'y'
+I0
+sg3
+S'clearly less fair for precisely'
+p1037
+sg5
+I5
+sa(dp1038
+S'y'
+I1
+sg3
+S'must spread some reputation around'
+p1039
+sg5
+I5
+sa(dp1040
+S'y'
+I1
+sg3
+S'i never really paid attention'
+p1041
+sg5
+I5
+sa(dp1042
+S'y'
+I0
+sg3
+S'paterno than most people do'
+p1043
+sg5
+I5
+sa(dp1044
+S'y'
+I0
+sg3
+S'start very much the opposite'
+p1045
+sg5
+I5
+sa(dp1046
+S'y'
+I1
+sg3
+S"you 'll find a slim"
+p1047
+sg5
+I5
+sa(dp1048
+S'y'
+I0
+sg3
+S"'m talking about cuts to"
+p1049
+sg5
+I5
+sa(dp1050
+S'y'
+I0
+sg3
+S'a company should get a'
+p1051
+sg5
+I5
+sa(dp1052
+S'y'
+I1
+sg3
+S'start parents most likely ca'
+p1053
+sg5
+I5
+sa(dp1054
+S'y'
+I1
+sg3
+S"do n't think he 's"
+p1055
+sg5
+I5
+sa(dp1056
+S'y'
+I0
+sg3
+S'think they should have vocational'
+p1057
+sg5
+I5
+sa(dp1058
+S'y'
+I0
+sg3
+S'spend as much energy striving'
+p1059
+sg5
+I5
+sa(dp1060
+S'y'
+I1
+sg3
+S'fireworks are about to launch'
+p1061
+sg5
+I5
+sa(dp1062
+S'y'
+I1
+sg3
+S'normally last about 16 months'
+p1063
+sg5
+I5
+sa(dp1064
+S'y'
+I1
+sg3
+S'young people feel like college'
+p1065
+sg5
+I5
+sa(dp1066
+S'y'
+I0
+sg3
+S'a lot about yourself stop'
+p1067
+sg5
+I5
+sa(dp1068
+S'y'
+I1
+sg3
+S'city where nearly 100 stop'
+p1069
+sg5
+I5
+sa(dp1070
+S'y'
+I1
+sg3
+S'of civilians should be expected'
+p1071
+sg5
+I5
+sa(dp1072
+S'y'
+I1
+sg3
+S'populist much like our politicians'
+p1073
+sg5
+I5
+sa(dp1074
+S'y'
+I1
+sg3
+S'start i might actually pay'
+p1075
+sg5
+I5
+sa(dp1076
+S'y'
+I1
+sg3
+S'apology can occasionally be a'
+p1077
+sg5
+I5
+sa(dp1078
+S'y'
+I1
+sg3
+S'ex a fair few times'
+p1079
+sg5
+I5
+sa(dp1080
+S'y'
+I0
+sg3
+S"n't care about whether or"
+p1081
+sg5
+I5
+sa(dp1082
+S'y'
+I1
+sg3
+S'day it could happen .'
+p1083
+sg5
+I5
+sa(dp1084
+S'y'
+I0
+sg3
+S"does n't like this country"
+p1085
+sg5
+I5
+sa(dp1086
+S'y'
+I0
+sg3
+S"does n't understand evolution is"
+p1087
+sg5
+I5
+sa(dp1088
+S'y'
+I0
+sg3
+S'i would like answers to'
+p1089
+sg5
+I5
+sa(dp1090
+S'y'
+I0
+sg3
+S'posted talks about crowds telling'
+p1091
+sg5
+I5
+sa(dp1092
+S'y'
+I0
+sg3
+S'being vague about the description'
+p1093
+sg5
+I5
+sa(dp1094
+S'y'
+I0
+sg3
+S'start think about that stop'
+p1095
+sg5
+I5
+sa(dp1096
+S'y'
+I0
+sg3
+S'colleagues efforts really stop stop'
+p1097
+sg5
+I5
+sa(dp1098
+S'y'
+I0
+sg3
+S'start i could see where'
+p1099
+sg5
+I5
+sa(dp1100
+S'y'
+I0
+sg3
+S'absolutely nothing about this kid'
+p1101
+sg5
+I5
+sa(dp1102
+S'y'
+I0
+sg3
+S'not talking about current events'
+p1103
+sg5
+I5
+sa(dp1104
+S'y'
+I1
+sg3
+S'it seem like those intellectuals'
+p1105
+sg5
+I5
+sa(dp1106
+S'y'
+I0
+sg3
+S'a point about the healthcare'
+p1107
+sg5
+I5
+sa(dp1108
+S'y'
+I0
+sg3
+S'the truth about global warming'
+p1109
+sg5
+I5
+sa(dp1110
+S'y'
+I1
+sg3
+S"it ` sometimes ' otherwise"
+p1111
+sg5
+I5
+sa(dp1112
+S'y'
+I0
+sg3
+S'my feet feel like they'
+p1113
+sg5
+I5
+sa(dp1114
+S'y'
+I1
+sg3
+S'you she probably enjoys her'
+p1115
+sg5
+I5
+sa(dp1116
+S'y'
+I0
+sg3
+S'when she completely lifted her'
+p1117
+sg5
+I5
+sa(dp1118
+S'y'
+I1
+sg3
+S'of anything like such ...'
+p1119
+sg5
+I5
+sa(dp1120
+S'y'
+I0
+sg3
+S'yeswhen talking about fairness stop'
+p1121
+sg5
+I5
+sa(dp1122
+S'y'
+I0
+sg3
+S'going on somewhere - ie'
+p1123
+sg5
+I5
+sa(dp1124
+S'y'
+I1
+sg3
+S'with countries like china that'
+p1125
+sg5
+I5
+sa(dp1126
+S'y'
+I1
+sg3
+S"yeah i guess i 'd"
+p1127
+sg5
+I5
+sa(dp1128
+S'y'
+I1
+sg3
+S"it 's virtually impossible not"
+p1129
+sg5
+I5
+sa(dp1130
+S'y'
+I0
+sg3
+S'start what "they say" in public'
+p1131
+sg5
+I6
+sa(dp1132
+S'y'
+I1
+sg3
+S"do n't think there are"
+p1133
+sg5
+I5
+sa(dp1134
+S'y'
+I1
+sg3
+S'neither do most of the'
+p1135
+sg5
+I5
+sa(dp1136
+S'y'
+I0
+sg3
+S'will never "look like" that and'
+p1137
+sg5
+I6
+sa(dp1138
+S'y'
+I0
+sg3
+S'can lie about his past'
+p1139
+sg5
+I5
+sa(dp1140
+S'y'
+I1
+sg3
+S'still seems like a lying'
+p1141
+sg5
+I5
+sa(dp1142
+S'y'
+I0
+sg3
+S'freedom is possible only if'
+p1143
+sg5
+I5
+sa(dp1144
+S'y'
+I1
+sg3
+S'is less likely to report'
+p1145
+sg5
+I5
+sa(dp1146
+S'y'
+I1
+sg3
+S'by axelrod "and the rest" runningthe president'
+p1147
+sg5
+I7
+sa(dp1148
+S'y'
+I1
+sg3
+S"start i really ca n't"
+p1149
+sg5
+I5
+sa(dp1150
+S'y'
+I0
+sg3
+S'is a really easy rule'
+p1151
+sg5
+I5
+sa(dp1152
+S'y'
+I0
+sg3
+S'interrogating people about their sex'
+p1153
+sg5
+I5
+sa(dp1154
+S'y'
+I1
+sg3
+S'anything i hear could be'
+p1155
+sg5
+I5
+sa(dp1156
+S'y'
+I0
+sg3
+S'swear i hear him crying'
+p1157
+sg5
+I5
+sa(dp1158
+S'y'
+I0
+sg3
+S'there i feel a tiny'
+p1159
+sg5
+I5
+sa(dp1160
+S'y'
+I1
+sg3
+S'range is likely to face'
+p1161
+sg5
+I5
+sa(dp1162
+S'y'
+I1
+sg3
+S'could have some small truth'
+p1163
+sg5
+I5
+sa(dp1164
+S'y'
+I0
+sg3
+S'change is "so far" outside the'
+p1165
+sg5
+I6
+sa(dp1166
+S'y'
+I1
+sg3
+S'angry if someone accused me'
+p1167
+sg5
+I5
+sa(dp1168
+S'y'
+I1
+sg3
+S'start china may have made'
+p1169
+sg5
+I5
+sa(dp1170
+S'y'
+I1
+sg3
+S'agreed with most of this'
+p1171
+sg5
+I5
+sa(dp1172
+S'y'
+I1
+sg3
+S'start not sure if that'
+p1173
+sg5
+I5
+sa(dp1174
+S'y'
+I0
+sg3
+S'do not expect gentiles to'
+p1175
+sg5
+I5
+sa(dp1176
+S'y'
+I0
+sg3
+S'start taxes should be collected'
+p1177
+sg5
+I5
+sa(dp1178
+S'y'
+I1
+sg3
+S'the government could grant amnesty'
+p1179
+sg5
+I5
+sa(dp1180
+S'y'
+I1
+sg3
+S'death that may prove to'
+p1181
+sg5
+I5
+sa(dp1182
+S'y'
+I0
+sg3
+S'know more about another sector'
+p1183
+sg5
+I5
+sa(dp1184
+S'y'
+I1
+sg3
+S'hold with about 530 feet'
+p1185
+sg5
+I5
+sa(dp1186
+S'y'
+I0
+sg3
+S"i 've read on this"
+p1187
+sg5
+I5
+sa(dp1188
+S'y'
+I0
+sg3
+S'start we should have monuments'
+p1189
+sg5
+I5
+sa(dp1190
+S'y'
+I1
+sg3
+S'start just like with the'
+p1191
+sg5
+I5
+sa(dp1192
+S'y'
+I0
+sg3
+S'start i could throw around'
+p1193
+sg5
+I5
+sa(dp1194
+S'y'
+I1
+sg3
+S'start it somehow seems immoral'
+p1195
+sg5
+I5
+sa(dp1196
+S'y'
+I1
+sg3
+S'time magazine "a few" days after'
+p1197
+sg5
+I6
+sa(dp1198
+S'y'
+I1
+sg3
+S'am sure most people will'
+p1199
+sg5
+I5
+sa(dp1200
+S'y'
+I0
+sg3
+S'know much about these american'
+p1201
+sg5
+I5
+sa(dp1202
+S'y'
+I1
+sg3
+S'happen very much at all'
+p1203
+sg5
+I5
+sa(dp1204
+S'y'
+I0
+sg3
+S'around bullshit about the welfare'
+p1205
+sg5
+I5
+sa(dp1206
+S'y'
+I0
+sg3
+S"do n't understand the cherry"
+p1207
+sg5
+I5
+sa(dp1208
+S'y'
+I0
+sg3
+S'everything is about you twatnow'
+p1209
+sg5
+I5
+sa(dp1210
+S'y'
+I0
+sg3
+S'that he should do his'
+p1211
+sg5
+I5
+sa(dp1212
+S'y'
+I0
+sg3
+S'start perhaps some alien in'
+p1213
+sg5
+I5
+sa(dp1214
+S'y'
+I1
+sg3
+S'all sound like a bunch'
+p1215
+sg5
+I5
+sa(dp1216
+S'y'
+I0
+sg3
+S'start we should be advising'
+p1217
+sg5
+I5
+sa(dp1218
+S'y'
+I1
+sg3
+S'less people like this due'
+p1219
+sg5
+I5
+sa(dp1220
+S'y'
+I0
+sg3
+S'have someone read about recent'
+p1221
+sg5
+I5
+sa(dp1222
+S'y'
+I0
+sg3
+S'that he should have researched'
+p1223
+sg5
+I5
+sa(dp1224
+S'y'
+I0
+sg3
+S'you talking about another country'
+p1225
+sg5
+I5
+sa(dp1226
+S'y'
+I0
+sg3
+S'and think about what is'
+p1227
+sg5
+I5
+sa(dp1228
+S'y'
+I0
+sg3
+S'is it about builders and'
+p1229
+sg5
+I5
+sa(dp1230
+S'y'
+I0
+sg3
+S'for the most part i'
+p1231
+sg5
+I5
+sa(dp1232
+S'y'
+I0
+sg3
+S'far too much now stop'
+p1233
+sg5
+I5
+sa(dp1234
+S'y'
+I1
+sg3
+S'it \'s "kind of" scary but'
+p1235
+sg5
+I6
+sa(dp1236
+S'y'
+I1
+sg3
+S'especially countries like the us'
+p1237
+sg5
+I5
+sa(dp1238
+S'y'
+I1
+sg3
+S'for the most part .'
+p1239
+sg5
+I5
+sa(dp1240
+S'y'
+I0
+sg3
+S'and what "they say" will not'
+p1241
+sg5
+I6
+sa(dp1242
+S'y'
+I0
+sg3
+S'i can understand how some'
+p1243
+sg5
+I5
+sa(dp1244
+S'y'
+I0
+sg3
+S'themselves but should have to'
+p1245
+sg5
+I5
+sa(dp1246
+S'y'
+I1
+sg3
+S'did not believe they would'
+p1247
+sg5
+I5
+sa(dp1248
+S'y'
+I1
+sg3
+S'na make someone better .'
+p1249
+sg5
+I5
+sa(dp1250
+S'y'
+I1
+sg3
+S'start i could even suggest'
+p1251
+sg5
+I5
+sa(dp1252
+S'y'
+I0
+sg3
+S'its that "kind of" flawed logic'
+p1253
+sg5
+I6
+sa(dp1254
+S'y'
+I0
+sg3
+S'that they could do this'
+p1255
+sg5
+I5
+sa(dp1256
+S'y'
+I0
+sg3
+S'was talking about our 1940'
+p1257
+sg5
+I5
+sa(dp1258
+S'y'
+I1
+sg3
+S'next week apparently which i'
+p1259
+sg5
+I5
+sa(dp1260
+S'y'
+I0
+sg3
+S'; i totally made it'
+p1261
+sg5
+I5
+sa(dp1262
+S'y'
+I1
+sg3
+S'start start "i mean" i think'
+p1263
+sg5
+I6
+sa(dp1264
+S'y'
+I0
+sg3
+S'a great find and the'
+p1265
+sg5
+I5
+sa(dp1266
+S'y'
+I0
+sg3
+S'just reading about obama bringing'
+p1267
+sg5
+I5
+sa(dp1268
+S'y'
+I1
+sg3
+S'start it often leads to'
+p1269
+sg5
+I5
+sa(dp1270
+S'y'
+I1
+sg3
+S'start i think what you'
+p1271
+sg5
+I5
+sa(dp1272
+S'y'
+I0
+sg3
+S'we say about bush when'
+p1273
+sg5
+I5
+sa(dp1274
+S'y'
+I1
+sg3
+S'the upheaval could have been'
+p1275
+sg5
+I5
+sa(dp1276
+S'y'
+I0
+sg3
+S'time worrying about regulations and'
+p1277
+sg5
+I5
+sa(dp1278
+S'y'
+I1
+sg3
+S"do n't think that anyone"
+p1279
+sg5
+I5
+sa(dp1280
+S'y'
+I0
+sg3
+S'that does "look like" choppystix baby'
+p1281
+sg5
+I6
+sa(dp1282
+S'y'
+I1
+sg3
+S"is n't really true ."
+p1283
+sg5
+I5
+sa(dp1284
+S'y'
+I0
+sg3
+S'not just about whether the'
+p1285
+sg5
+I5
+sa(dp1286
+S'y'
+I1
+sg3
+S'start i know you dems'
+p1287
+sg5
+I5
+sa(dp1288
+S'y'
+I1
+sg3
+S'start i think it is'
+p1289
+sg5
+I5
+sa(dp1290
+S'y'
+I1
+sg3
+S'indian friends may have confidence'
+p1291
+sg5
+I5
+sa(dp1292
+S'y'
+I1
+sg3
+S"you 'd think the guy"
+p1293
+sg5
+I5
+sa(dp1294
+S'y'
+I0
+sg3
+S'start when someone says .'
+p1295
+sg5
+I5
+sa(dp1296
+S'y'
+I0
+sg3
+S'start he should have settled'
+p1297
+sg5
+I5
+sa(dp1298
+S'y'
+I0
+sg3
+S'start you know overkill we'
+p1299
+sg5
+I5
+sa(dp1300
+S'y'
+I0
+sg3
+S'do something about all of'
+p1301
+sg5
+I5
+sa(dp1302
+S'y'
+I1
+sg3
+S'would even think about arguing'
+p1303
+sg5
+I5
+sa(dp1304
+S'y'
+I0
+sg3
+S'curvey would like to share'
+p1305
+sg5
+I5
+sa(dp1306
+S'y'
+I0
+sg3
+S"i 'm completely neutral ."
+p1307
+sg5
+I5
+sa(dp1308
+S'y'
+I1
+sg3
+S"do n't suppose there is"
+p1309
+sg5
+I5
+sa(dp1310
+S'y'
+I1
+sg3
+S'just dont know what to'
+p1311
+sg5
+I5
+sa(dp1312
+S'y'
+I1
+sg3
+S"do n't know what is"
+p1313
+sg5
+I5
+sa(dp1314
+S'y'
+I1
+sg3
+S'marriage and some people cant'
+p1315
+sg5
+I5
+sa(dp1316
+S'y'
+I0
+sg3
+S'system is totally unfair .'
+p1317
+sg5
+I5
+sa(dp1318
+S'y'
+I0
+sg3
+S'start that much seems obvious'
+p1319
+sg5
+I5
+sa(dp1320
+S'y'
+I1
+sg3
+S'will lose some of their'
+p1321
+sg5
+I5
+sa(dp1322
+S'y'
+I1
+sg3
+S'you would consider a hiring'
+p1323
+sg5
+I5
+sa(dp1324
+S'y'
+I1
+sg3
+S"n't believe most progressives even"
+p1325
+sg5
+I5
+sa(dp1326
+S'y'
+I1
+sg3
+S'are probably some exceptions to'
+p1327
+sg5
+I5
+sa(dp1328
+S'y'
+I0
+sg3
+S'start apparently someone flunked his'
+p1329
+sg5
+I5
+sa(dp1330
+S'y'
+I0
+sg3
+S'consistently talk about the colour'
+p1331
+sg5
+I5
+sa(dp1332
+S'y'
+I1
+sg3
+S"'s company might be a"
+p1333
+sg5
+I5
+sa(dp1334
+S'y'
+I1
+sg3
+S'detail i remember falling down'
+p1335
+sg5
+I5
+sa(dp1336
+S'y'
+I1
+sg3
+S'start he could have delivered'
+p1337
+sg5
+I5
+sa(dp1338
+S'y'
+I1
+sg3
+S'type-95 rifle "among others" stop stop'
+p1339
+sg5
+I6
+sa(dp1340
+S'y'
+I1
+sg3
+S'i was sure their grins'
+p1341
+sg5
+I5
+sa(dp1342
+S'y'
+I0
+sg3
+S'start you completely ignored the'
+p1343
+sg5
+I5
+sa(dp1344
+S'y'
+I0
+sg3
+S'was talking about all unhealthy'
+p1345
+sg5
+I5
+sa(dp1346
+S'y'
+I1
+sg3
+S'start i know i would'
+p1347
+sg5
+I5
+sa(dp1348
+S'y'
+I1
+sg3
+S'start i feel it is'
+p1349
+sg5
+I5
+sa(dp1350
+S'y'
+I1
+sg3
+S"do n't think the government"
+p1351
+sg5
+I5
+sa(dp1352
+S'y'
+I1
+sg3
+S'his losssounds like my ex'
+p1353
+sg5
+I5
+sa(dp1354
+S'y'
+I1
+sg3
+S'and mighty seem to be'
+p1355
+sg5
+I5
+sa(dp1356
+S'y'
+I1
+sg3
+S'\'re missing "a few" braincells .'
+p1357
+sg5
+I6
+sa(dp1358
+S'y'
+I1
+sg3
+S'your spouse may have to'
+p1359
+sg5
+I5
+sa(dp1360
+S'y'
+I0
+sg3
+S'scientists concerned about global warming'
+p1361
+sg5
+I5
+sa(dp1362
+S'y'
+I0
+sg3
+S'start i understand the requirement'
+p1363
+sg5
+I5
+sa(dp1364
+S'y'
+I0
+sg3
+S"ca n't read stupid shit"
+p1365
+sg5
+I5
+sa(dp1366
+S'y'
+I0
+sg3
+S'as they could get stop'
+p1367
+sg5
+I5
+sa(dp1368
+S'y'
+I1
+sg3
+S'start things seem much calmer'
+p1369
+sg5
+I5
+sa(dp1370
+S'y'
+I1
+sg3
+S'would take some digging on'
+p1371
+sg5
+I5
+sa(dp1372
+S'y'
+I0
+sg3
+S'shrien dewani about the murder'
+p1373
+sg5
+I5
+sa(dp1374
+S'y'
+I0
+sg3
+S'miracles in some of the'
+p1375
+sg5
+I5
+sa(dp1376
+S'y'
+I0
+sg3
+S'the store should install and'
+p1377
+sg5
+I5
+sa(dp1378
+S'y'
+I0
+sg3
+S'why i know that stop'
+p1379
+sg5
+I5
+sa(dp1380
+S'y'
+I0
+sg3
+S'expectancy is much lower than'
+p1381
+sg5
+I5
+sa(dp1382
+S'y'
+I1
+sg3
+S'they are much closer to'
+p1383
+sg5
+I5
+sa(dp1384
+S'y'
+I0
+sg3
+S'romney as much as newt'
+p1385
+sg5
+I5
+sa(dp1386
+S'y'
+I0
+sg3
+S'just talking about domestic demand'
+p1387
+sg5
+I5
+sa(dp1388
+S'y'
+I1
+sg3
+S'and in some parts of'
+p1389
+sg5
+I5
+sa(dp1390
+S'y'
+I1
+sg3
+S'of everything could be contemplated'
+p1391
+sg5
+I5
+sa(dp1392
+S'y'
+I1
+sg3
+S'will without much opposition .'
+p1393
+sg5
+I5
+sa(dp1394
+S'y'
+I1
+sg3
+S"let 's assume i had"
+p1395
+sg5
+I5
+sa(dp1396
+S'y'
+I1
+sg3
+S"; i know i 'd"
+p1397
+sg5
+I5
+sa(dp1398
+S'y'
+I1
+sg3
+S"idea and really do n't"
+p1399
+sg5
+I5
+sa(dp1400
+S'y'
+I0
+sg3
+S'monetarists have some things right'
+p1401
+sg5
+I5
+sa(dp1402
+S'y'
+I0
+sg3
+S'start what "kind of" feminism is'
+p1403
+sg5
+I6
+sa(dp1404
+S'y'
+I0
+sg3
+S'and a possible amnesty for'
+p1405
+sg5
+I5
+sa(dp1406
+S'y'
+I1
+sg3
+S'start feeding "a few" people now'
+p1407
+sg5
+I6
+sa(dp1408
+S'y'
+I1
+sg3
+S'she looked like a crumpled'
+p1409
+sg5
+I5
+sa(dp1410
+S'y'
+I1
+sg3
+S"do n't think that 's"
+p1411
+sg5
+I5
+sa(dp1412
+S'y'
+I1
+sg3
+S'start it really is that'
+p1413
+sg5
+I5
+sa(dp1414
+S'y'
+I1
+sg3
+S'would take about 3 -lrb-'
+p1415
+sg5
+I5
+sa(dp1416
+S'y'
+I1
+sg3
+S'start start "i mean" i do'
+p1417
+sg5
+I6
+sa(dp1418
+S'y'
+I0
+sg3
+S'it if possible to try'
+p1419
+sg5
+I5
+sa(dp1420
+S'y'
+I0
+sg3
+S'of the most heavily sprayed'
+p1421
+sg5
+I5
+sa(dp1422
+S'y'
+I1
+sg3
+S"do n't really care about"
+p1423
+sg5
+I5
+sa(dp1424
+S'y'
+I1
+sg3
+S'that happened almost twenty years'
+p1425
+sg5
+I5
+sa(dp1426
+S'y'
+I0
+sg3
+S'start i know of few'
+p1427
+sg5
+I5
+sa(dp1428
+S'y'
+I1
+sg3
+S'political reasons seem unlikely to'
+p1429
+sg5
+I5
+sa(dp1430
+S'y'
+I1
+sg3
+S'be coined like intelliphobe .'
+p1431
+sg5
+I5
+sa(dp1432
+S'y'
+I0
+sg3
+S'start for much of earth'
+p1433
+sg5
+I5
+sa(dp1434
+S'y'
+I0
+sg3
+S'the truth about the edlno'
+p1435
+sg5
+I5
+sa(dp1436
+S'y'
+I0
+sg3
+S'start kids really kick where'
+p1437
+sg5
+I5
+sa(dp1438
+S'y'
+I1
+sg3
+S"does n't seem quite so"
+p1439
+sg5
+I5
+sa(dp1440
+S'y'
+I1
+sg3
+S'that i know of .'
+p1441
+sg5
+I5
+sa(dp1442
+S'y'
+I0
+sg3
+S'it is possible that even'
+p1443
+sg5
+I5
+sa(dp1444
+S'y'
+I0
+sg3
+S'we fully understand ruth kelly'
+p1445
+sg5
+I5
+sa(dp1446
+S'y'
+I1
+sg3
+S'christi bayi think they will'
+p1447
+sg5
+I5
+sa(dp1448
+S'y'
+I0
+sg3
+S'start everything about her was'
+p1449
+sg5
+I5
+sa(dp1450
+S'y'
+I1
+sg3
+S'there is some mumbling about'
+p1451
+sg5
+I5
+sa(dp1452
+S'y'
+I1
+sg3
+S'him too much credit .'
+p1453
+sg5
+I5
+sa(dp1454
+S'y'
+I0
+sg3
+S'now i know where you'
+p1455
+sg5
+I5
+sa(dp1456
+S'y'
+I0
+sg3
+S'start forces much larger than'
+p1457
+sg5
+I5
+sa(dp1458
+S'y'
+I1
+sg3
+S'will have nearly doubled since'
+p1459
+sg5
+I5
+sa(dp1460
+S'y'
+I0
+sg3
+S'question we should be asking'
+p1461
+sg5
+I5
+sa(dp1462
+S'y'
+I1
+sg3
+S'geological survey suggest the seabed'
+p1463
+sg5
+I5
+sa(dp1464
+S'y'
+I0
+sg3
+S'is any "kind of" question stop'
+p1465
+sg5
+I6
+sa(dp1466
+S'y'
+I0
+sg3
+S'a shit about veterans or'
+p1467
+sg5
+I5
+sa(dp1468
+S'y'
+I0
+sg3
+S'start i like to ensure'
+p1469
+sg5
+I5
+sa(dp1470
+S'y'
+I0
+sg3
+S'we can expect from concealed'
+p1471
+sg5
+I5
+sa(dp1472
+S'y'
+I1
+sg3
+S'to be some kind of'
+p1473
+sg5
+I5
+sa(dp1474
+S'y'
+I1
+sg3
+S'get anything like that help'
+p1475
+sg5
+I5
+sa(dp1476
+S'y'
+I1
+sg3
+S'it is likely only a'
+p1477
+sg5
+I5
+sa(dp1478
+S'y'
+I0
+sg3
+S'of electricity should come from'
+p1479
+sg5
+I5
+sa(dp1480
+S'y'
+I1
+sg3
+S'start i think the knee'
+p1481
+sg5
+I5
+sa(dp1482
+S'y'
+I1
+sg3
+S'start i think that should'
+p1483
+sg5
+I5
+sa(dp1484
+S'y'
+I1
+sg3
+S"it 's about 100 ppm"
+p1485
+sg5
+I5
+sa(dp1486
+S'y'
+I0
+sg3
+S'game collection "looks like" and what'
+p1487
+sg5
+I6
+sa(dp1488
+S'y'
+I0
+sg3
+S'we should believe the stuff'
+p1489
+sg5
+I5
+sa(dp1490
+S'y'
+I0
+sg3
+S"do n't like it stop"
+p1491
+sg5
+I5
+sa(dp1492
+S'y'
+I1
+sg3
+S'start i know where he'
+p1493
+sg5
+I5
+sa(dp1494
+S'y'
+I1
+sg3
+S'i get "a little" tired of'
+p1495
+sg5
+I6
+sa(dp1496
+S'y'
+I1
+sg3
+S"' they seem to understand"
+p1497
+sg5
+I5
+sa(dp1498
+S'y'
+I1
+sg3
+S'start it may be the'
+p1499
+sg5
+I5
+sa(dp1500
+S'y'
+I1
+sg3
+S'start i think michele should'
+p1501
+sg5
+I5
+sa(dp1502
+S'y'
+I1
+sg3
+S'and be somewhat british .'
+p1503
+sg5
+I5
+sa(dp1504
+S'y'
+I1
+sg3
+S"start i suppose it 's"
+p1505
+sg5
+I5
+sa(dp1506
+S'y'
+I1
+sg3
+S'start he "kind of" looked at'
+p1507
+sg5
+I6
+sa(dp1508
+S'y'
+I1
+sg3
+S'only republicans believe that we'
+p1509
+sg5
+I5
+sa(dp1510
+S'y'
+I0
+sg3
+S'rw people about me .'
+p1511
+sg5
+I5
+sa(dp1512
+S'y'
+I0
+sg3
+S'and get some help .'
+p1513
+sg5
+I5
+sa(dp1514
+S'y'
+I0
+sg3
+S'the church should be of'
+p1515
+sg5
+I5
+sa(dp1516
+S'y'
+I1
+sg3
+S"do n't know what to"
+p1517
+sg5
+I5
+sa(dp1518
+S'y'
+I0
+sg3
+S'rant that really gripes me'
+p1519
+sg5
+I5
+sa(dp1520
+S'y'
+I0
+sg3
+S'some material about the benefits'
+p1521
+sg5
+I5
+sa(dp1522
+S'y'
+I1
+sg3
+S'risk provoking "a bunch" of zealots'
+p1523
+sg5
+I6
+sa(dp1524
+S'y'
+I1
+sg3
+S"pay for someone else 's"
+p1525
+sg5
+I5
+sa(dp1526
+S'y'
+I1
+sg3
+S'sucks that almost no one'
+p1527
+sg5
+I5
+sa(dp1528
+S'y'
+I0
+sg3
+S'very curious about your effect'
+p1529
+sg5
+I5
+sa(dp1530
+S'y'
+I1
+sg3
+S'republican conventions could provoke your'
+p1531
+sg5
+I5
+sa(dp1532
+S'y'
+I1
+sg3
+S'start and could have quite'
+p1533
+sg5
+I5
+sa(dp1534
+S'y'
+I1
+sg3
+S'of people like that stop'
+p1535
+sg5
+I5
+sa(dp1536
+S'y'
+I0
+sg3
+S'will be really screwed in'
+p1537
+sg5
+I5
+sa(dp1538
+S'y'
+I1
+sg3
+S'bipartisanship is like an abusive'
+p1539
+sg5
+I5
+sa(dp1540
+S'y'
+I0
+sg3
+S'start looks like you made'
+p1541
+sg5
+I5
+sa(dp1542
+S'y'
+I1
+sg3
+S'am very sure it was'
+p1543
+sg5
+I5
+sa(dp1544
+S'y'
+I1
+sg3
+S'start it could be that'
+p1545
+sg5
+I5
+sa(dp1546
+S'y'
+I0
+sg3
+S'than talked about stop stop'
+p1547
+sg5
+I5
+sa(dp1548
+S'y'
+I1
+sg3
+S'start i think at the'
+p1549
+sg5
+I5
+sa(dp1550
+S'y'
+I1
+sg3
+S'subject how could you realize'
+p1551
+sg5
+I5
+sa(dp1552
+S'y'
+I1
+sg3
+S"do n't think the concessions"
+p1553
+sg5
+I5
+sa(dp1554
+S'y'
+I0
+sg3
+S'i just feel like i'
+p1555
+sg5
+I5
+sa(dp1556
+S'y'
+I1
+sg3
+S"could n't possibly get any"
+p1557
+sg5
+I5
+sa(dp1558
+S'y'
+I0
+sg3
+S'start lets hear the remaining'
+p1559
+sg5
+I5
+sa(dp1560
+S'y'
+I0
+sg3
+S'the person most responsible for'
+p1561
+sg5
+I5
+sa(dp1562
+S'y'
+I0
+sg3
+S'children and believe me a'
+p1563
+sg5
+I5
+sa(dp1564
+S'y'
+I0
+sg3
+S'start how about this recent'
+p1565
+sg5
+I5
+sa(dp1566
+S'y'
+I0
+sg3
+S'the answere should be no'
+p1567
+sg5
+I5
+sa(dp1568
+S'y'
+I0
+sg3
+S'be a really interesting match'
+p1569
+sg5
+I5
+sa(dp1570
+S'y'
+I1
+sg3
+S'https://mail.google.com/mail/h/fyye8...51c179eb8f330bgingrich has some explaining to'
+p1571
+sg5
+I5
+sa(dp1572
+S'y'
+I1
+sg3
+S'and others like you have'
+p1573
+sg5
+I5
+sa(dp1574
+S'y'
+I0
+sg3
+S'start perhaps some of us'
+p1575
+sg5
+I5
+sa(dp1576
+S'y'
+I1
+sg3
+S'and it sure as hell'
+p1577
+sg5
+I5
+sa(dp1578
+S'y'
+I0
+sg3
+S'have pinned some of their'
+p1579
+sg5
+I5
+sa(dp1580
+S'y'
+I1
+sg3
+S"that 's basically the general"
+p1581
+sg5
+I5
+sa(dp1582
+S'y'
+I0
+sg3
+S'must spread some reputation around'
+p1583
+sg5
+I5
+sa(dp1584
+S'y'
+I1
+sg3
+S'of things like this .'
+p1585
+sg5
+I5
+sa(dp1586
+S'y'
+I0
+sg3
+S"do n't read what you"
+p1587
+sg5
+I5
+sa(dp1588
+S'y'
+I0
+sg3
+S'would accuse someone of being'
+p1589
+sg5
+I5
+sa(dp1590
+S'y'
+I0
+sg3
+S'even more likely that the'
+p1591
+sg5
+I5
+sa(dp1592
+S'y'
+I1
+sg3
+S'start more like the nba'
+p1593
+sg5
+I5
+sa(dp1594
+S'y'
+I0
+sg3
+S'start most should be doing'
+p1595
+sg5
+I5
+sa(dp1596
+S'y'
+I1
+sg3
+S'not be much psychological effect'
+p1597
+sg5
+I5
+sa(dp1598
+S'y'
+I1
+sg3
+S'start i think the guys'
+p1599
+sg5
+I5
+sa(dp1600
+S'y'
+I1
+sg3
+S'chief executives may get involved'
+p1601
+sg5
+I5
+sa(dp1602
+S'y'
+I1
+sg3
+S'2receive the basic rate and'
+p1603
+sg5
+I5
+sa(dp1604
+S'y'
+I1
+sg3
+S'pipe was usually used as'
+p1605
+sg5
+I5
+sa(dp1606
+S'y'
+I1
+sg3
+S'start i think you both'
+p1607
+sg5
+I5
+sa(dp1608
+S'y'
+I1
+sg3
+S'husband denis could not be'
+p1609
+sg5
+I5
+sa(dp1610
+S'y'
+I1
+sg3
+S'so i think i will'
+p1611
+sg5
+I5
+sa(dp1612
+S'y'
+I0
+sg3
+S'be talking about the assholes'
+p1613
+sg5
+I5
+sa(dp1614
+S'y'
+I1
+sg3
+S"'s not like we 're"
+p1615
+sg5
+I5
+sa(dp1616
+S'y'
+I1
+sg3
+S'does not appear to be'
+p1617
+sg5
+I5
+sa(dp1618
+S'y'
+I1
+sg3
+S'we have "sort of" thrown a'
+p1619
+sg5
+I6
+sa(dp1620
+S'y'
+I0
+sg3
+S'then they hear the defence'
+p1621
+sg5
+I5
+sa(dp1622
+S'y'
+I0
+sg3
+S'as hell know zimmerman has'
+p1623
+sg5
+I5
+sa(dp1624
+S'y'
+I1
+sg3
+S'statehouse with several homemade explosives'
+p1625
+sg5
+I5
+sa(dp1626
+S'y'
+I0
+sg3
+S'time i somehow ended up'
+p1627
+sg5
+I5
+sa(dp1628
+S'y'
+I0
+sg3
+S'progressives even understand the difference'
+p1629
+sg5
+I5
+sa(dp1630
+S'y'
+I1
+sg3
+S'funding on basic research39 .'
+p1631
+sg5
+I5
+sa(dp1632
+S'y'
+I0
+sg3
+S'so he could join their'
+p1633
+sg5
+I5
+sa(dp1634
+S'y'
+I1
+sg3
+S'start i think there should'
+p1635
+sg5
+I5
+sa(dp1636
+S'y'
+I1
+sg3
+S'start they almost knocked the'
+p1637
+sg5
+I5
+sa(dp1638
+S'y'
+I0
+sg3
+S'to get some money out'
+p1639
+sg5
+I5
+sa(dp1640
+S'y'
+I0
+sg3
+S'i am really unsure what'
+p1641
+sg5
+I5
+sa(dp1642
+S'y'
+I1
+sg3
+S"i 'm sure a great"
+p1643
+sg5
+I5
+sa(dp1644
+S'y'
+I0
+sg3
+S'said rush should apologize .'
+p1645
+sg5
+I5
+sa(dp1646
+S'y'
+I0
+sg3
+S'michael jackson could perform .'
+p1647
+sg5
+I5
+sa(dp1648
+S'y'
+I1
+sg3
+S'been feeling like the death'
+p1649
+sg5
+I5
+sa(dp1650
+S'y'
+I1
+sg3
+S'got that "sort of" money esp'
+p1651
+sg5
+I6
+sa(dp1652
+S'y'
+I0
+sg3
+S'is actually possible to offer'
+p1653
+sg5
+I5
+sa(dp1654
+S'y'
+I1
+sg3
+S'that they may otherwise invest'
+p1655
+sg5
+I5
+sa(dp1656
+S'y'
+I1
+sg3
+S"'ve said several times stop"
+p1657
+sg5
+I5
+sa(dp1658
+S'y'
+I1
+sg3
+S'i do know bp will'
+p1659
+sg5
+I5
+sa(dp1660
+S'y'
+I0
+sg3
+S'when i hear them ...'
+p1661
+sg5
+I5
+sa(dp1662
+S'y'
+I1
+sg3
+S'have had much to begin'
+p1663
+sg5
+I5
+sa(dp1664
+S'y'
+I1
+sg3
+S'start start "i mean" seriously clinton'
+p1665
+sg5
+I6
+sa(dp1666
+S'y'
+I0
+sg3
+S'vietnam today should remind us'
+p1667
+sg5
+I5
+sa(dp1668
+S'y'
+I1
+sg3
+S'do not think so .'
+p1669
+sg5
+I5
+sa(dp1670
+S'y'
+I1
+sg3
+S'racist would think otherwise .'
+p1671
+sg5
+I5
+sa(dp1672
+S'y'
+I1
+sg3
+S'start senators could ignore the'
+p1673
+sg5
+I5
+sa(dp1674
+S'y'
+I1
+sg3
+S'if she really can remember'
+p1675
+sg5
+I5
+sa(dp1676
+S'y'
+I1
+sg3
+S'i have read on this'
+p1677
+sg5
+I5
+sa(dp1678
+S'y'
+I1
+sg3
+S'is not necessarily ` socialist'
+p1679
+sg5
+I5
+sa(dp1680
+S'y'
+I1
+sg3
+S'the hoarders seem to see'
+p1681
+sg5
+I5
+sa(dp1682
+S'y'
+I0
+sg3
+S'think they should pay to'
+p1683
+sg5
+I5
+sa(dp1684
+S'y'
+I1
+sg3
+S'start i suppose we all'
+p1685
+sg5
+I5
+sa(dp1686
+S'y'
+I1
+sg3
+S'treated israel like it was'
+p1687
+sg5
+I5
+sa(dp1688
+S'y'
+I0
+sg3
+S'and i could only dream'
+p1689
+sg5
+I5
+sa(dp1690
+S'y'
+I0
+sg3
+S"do n't feel particularly bad"
+p1691
+sg5
+I5
+sa(dp1692
+S'y'
+I1
+sg3
+S'anyone can suggest any routes'
+p1693
+sg5
+I5
+sa(dp1694
+S'y'
+I1
+sg3
+S'curiosity that much of america'
+p1695
+sg5
+I5
+sa(dp1696
+S'y'
+I0
+sg3
+S'young people about the new'
+p1697
+sg5
+I5
+sa(dp1698
+S'y'
+I1
+sg3
+S'start i think you should'
+p1699
+sg5
+I5
+sa(dp1700
+S'y'
+I0
+sg3
+S'start california should be proud'
+p1701
+sg5
+I5
+sa(dp1702
+S'y'
+I0
+sg3
+S'they talk about taxing those'
+p1703
+sg5
+I5
+sa(dp1704
+S'y'
+I1
+sg3
+S'probably think most all human'
+p1705
+sg5
+I5
+sa(dp1706
+S'y'
+I1
+sg3
+S'to scream like banshees at'
+p1707
+sg5
+I5
+sa(dp1708
+S'y'
+I1
+sg3
+S'seen him "a couple" times .'
+p1709
+sg5
+I6
+sa(dp1710
+S'y'
+I0
+sg3
+S'start they most certainly would'
+p1711
+sg5
+I5
+sa(dp1712
+S'y'
+I0
+sg3
+S'laughing outloud about jokes about'
+p1713
+sg5
+I5
+sa(dp1714
+S'y'
+I1
+sg3
+S'what i think gladio before'
+p1715
+sg5
+I5
+sa(dp1716
+S'y'
+I1
+sg3
+S"i 'm sure the majority"
+p1717
+sg5
+I5
+sa(dp1718
+S'y'
+I1
+sg3
+S'know for sure stop stop'
+p1719
+sg5
+I5
+sa(dp1720
+S'y'
+I0
+sg3
+S'right or fair and i'
+p1721
+sg5
+I5
+sa(dp1722
+S'y'
+I0
+sg3
+S'was talking about those on'
+p1723
+sg5
+I5
+sa(dp1724
+S'y'
+I0
+sg3
+S'be a really clever guy'
+p1725
+sg5
+I5
+sa(dp1726
+S'y'
+I0
+sg3
+S'i couldnt think of another'
+p1727
+sg5
+I5
+sa(dp1728
+S'y'
+I0
+sg3
+S'incestuous couples should not have'
+p1729
+sg5
+I5
+sa(dp1730
+S'y'
+I0
+sg3
+S'control is know as eugenics'
+p1731
+sg5
+I5
+sa(dp1732
+S'y'
+I0
+sg3
+S'powell talked about the mobile'
+p1733
+sg5
+I5
+sa(dp1734
+S'y'
+I1
+sg3
+S'start i feel that my'
+p1735
+sg5
+I5
+sa(dp1736
+S'y'
+I0
+sg3
+S"n't heard about that ."
+p1737
+sg5
+I5
+sa(dp1738
+S'y'
+I0
+sg3
+S'we will hear the little'
+p1739
+sg5
+I5
+sa(dp1740
+S'y'
+I1
+sg3
+S'may ... some reps may'
+p1741
+sg5
+I5
+sa(dp1742
+S'y'
+I1
+sg3
+S'committed by virtually every other'
+p1743
+sg5
+I5
+sa(dp1744
+S'y'
+I0
+sg3
+S'the op feel much worse'
+p1745
+sg5
+I5
+sa(dp1746
+S'y'
+I1
+sg3
+S'i do think the safety'
+p1747
+sg5
+I5
+sa(dp1748
+S'y'
+I0
+sg3
+S"do n't know what a"
+p1749
+sg5
+I5
+sa(dp1750
+S'y'
+I1
+sg3
+S'using terms like nazi/fascist to'
+p1751
+sg5
+I5
+sa(dp1752
+S'y'
+I0
+sg3
+S'start i think of you'
+p1753
+sg5
+I5
+sa(dp1754
+S'y'
+I0
+sg3
+S'time worrying about regulations and'
+p1755
+sg5
+I5
+sa(dp1756
+S'y'
+I0
+sg3
+S'all government should refrain from'
+p1757
+sg5
+I5
+sa(dp1758
+S'y'
+I0
+sg3
+S'fascinating questions about economic management'
+p1759
+sg5
+I5
+sa(dp1760
+S'y'
+I0
+sg3
+S'start i know this is'
+p1761
+sg5
+I5
+sa(dp1762
+S'y'
+I0
+sg3
+S'him the most less than'
+p1763
+sg5
+I5
+sa(dp1764
+S'y'
+I1
+sg3
+S'start just like i would'
+p1765
+sg5
+I5
+sa(dp1766
+S'y'
+I0
+sg3
+S'to say about your little'
+p1767
+sg5
+I5
+sa(dp1768
+S'y'
+I1
+sg3
+S'start i really doubt any'
+p1769
+sg5
+I5
+sa(dp1770
+S'y'
+I0
+sg3
+S'that hustler should be expanded'
+p1771
+sg5
+I5
+sa(dp1772
+S'y'
+I1
+sg3
+S"start and perhaps that 's"
+p1773
+sg5
+I5
+sa(dp1774
+S'y'
+I1
+sg3
+S'indeed they often show that'
+p1775
+sg5
+I5
+sa(dp1776
+S'y'
+I1
+sg3
+S'been killed "so far" this year'
+p1777
+sg5
+I6
+sa(dp1778
+S'y'
+I1
+sg3
+S'i am sure that can'
+p1779
+sg5
+I5
+sa(dp1780
+S'y'
+I1
+sg3
+S'start it may be permanent'
+p1781
+sg5
+I5
+sa(dp1782
+S'y'
+I1
+sg3
+S'thread for "a few" reasons .'
+p1783
+sg5
+I6
+sa(dp1784
+S'y'
+I1
+sg3
+S'; it could potentially be'
+p1785
+sg5
+I5
+sa(dp1786
+S'y'
+I1
+sg3
+S'now overpaying "a bit" and have'
+p1787
+sg5
+I6
+sa(dp1788
+S'y'
+I1
+sg3
+S'think of some of my'
+p1789
+sg5
+I5
+sa(dp1790
+S'y'
+I0
+sg3
+S'of the basic survival mechanism'
+p1791
+sg5
+I5
+sa(dp1792
+S'y'
+I0
+sg3
+S'not acceptable "they said" stop stop'
+p1793
+sg5
+I6
+sa(dp1794
+S'y'
+I0
+sg3
+S'trade is about co2 and'
+p1795
+sg5
+I5
+sa(dp1796
+S'y'
+I0
+sg3
+S"he 's totally misinterpreting his"
+p1797
+sg5
+I5
+sa(dp1798
+S'y'
+I1
+sg3
+S'start i think it is'
+p1799
+sg5
+I5
+sa(dp1800
+S'y'
+I1
+sg3
+S'well it could have been'
+p1801
+sg5
+I5
+sa(dp1802
+S'y'
+I1
+sg3
+S'and elsewhere might enjoy the'
+p1803
+sg5
+I5
+sa(dp1804
+S'y'
+I1
+sg3
+S'oil spill could have a'
+p1805
+sg5
+I5
+sa(dp1806
+S'y'
+I0
+sg3
+S'start just remember that it'
+p1807
+sg5
+I5
+sa(dp1808
+S'y'
+I0
+sg3
+S'christmas dayi remember being given'
+p1809
+sg5
+I5
+sa(dp1810
+S'y'
+I1
+sg3
+S'pay and feel justified in'
+p1811
+sg5
+I5
+sa(dp1812
+S'y'
+I0
+sg3
+S'stuff up much more as'
+p1813
+sg5
+I5
+sa(dp1814
+S'y'
+I0
+sg3
+S'start how much money did'
+p1815
+sg5
+I5
+sa(dp1816
+S'y'
+I1
+sg3
+S'purpletoenails - read that post'
+p1817
+sg5
+I5
+sa(dp1818
+S'y'
+I0
+sg3
+S"ca n't believe you can"
+p1819
+sg5
+I5
+sa(dp1820
+S'y'
+I1
+sg3
+S'start i think this is'
+p1821
+sg5
+I5
+sa(dp1822
+S'y'
+I1
+sg3
+S'it is like flood insurance'
+p1823
+sg5
+I5
+sa(dp1824
+S'y'
+I0
+sg3
+S'wish i could do that'
+p1825
+sg5
+I5
+sa(dp1826
+S'y'
+I1
+sg3
+S"n't even know i exist"
+p1827
+sg5
+I5
+sa(dp1828
+S'y'
+I0
+sg3
+S'movement is about anti-capitalism .'
+p1829
+sg5
+I5
+sa(dp1830
+S'y'
+I0
+sg3
+S'talk about somebody straightening themselves'
+p1831
+sg5
+I5
+sa(dp1832
+S'y'
+I1
+sg3
+S'a case like this .'
+p1833
+sg5
+I5
+sa(dp1834
+S'y'
+I0
+sg3
+S'in california should the body'
+p1835
+sg5
+I5
+sa(dp1836
+S'y'
+I1
+sg3
+S'newer technologies like microfiltration of'
+p1837
+sg5
+I5
+sa(dp1838
+S'y'
+I1
+sg3
+S'lash that sometimes stop stop'
+p1839
+sg5
+I5
+sa.

@@ -1,0 +1,20 @@
+(lp1
+(dp2
+S'y'
+I0
+sS'text'
+p3
+S'this is some sort of'
+p4
+sS'num_words'
+p5
+I5
+sa(dp6
+S'y'
+I0
+sg3
+S'is some sort of cow'
+p7
+sg5
+I5
+sa.
