@@ -8,6 +8,6 @@ Hedge, Hedge Type (hProp/hRel), Definition of the Hedge Type, Hedge Use Definiti
 
 To test this function, just run bash test.sh.
 
-3. train.sh - the shell script allows you to train a new model. We've included our training data in ./train/train_dev.txt, but it can be replaced with any data in the format: Label \t Text. We've also included our test data in test.txt, which allow us to test the performance of the model on a held out dataset with gold standard labels. 
+3. train.sh - the shell script allows you to train a new model. We've included our training data in ./train/train_dev.txt, but it can be replaced with any data in the format: Label \t Text. We've also included our test data in test.txt, which allow us to test the performance of the model on a held out dataset with gold standard labels. NOTE: Make sure you download the GoogleNews trained word vectors from https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz and unzip them (so you end up with a .bin file). 
 
 To test this function, just run bash train.sh.
