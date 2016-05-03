@@ -150,8 +150,13 @@ def process_line(line):
 
 if __name__=="__main__":
     train_filename = sys.argv[1]
-    w2v_file = sys.argv[2]
-    test_filename = sys.argv[3]
+    test_filename = ""
+    w2v_file = ""
+    
+    if len(sys.argv) > 2:
+        test_filename = sys.argv[2]
+    if len(sys.argv) > 3:
+        w2v_file = sys.argv[3]
     
     vocab = create_vocab(train_filename)
     train(vocab, train_filename, w2v_file)

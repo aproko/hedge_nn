@@ -63,7 +63,7 @@ def build_model(U,
                   ("dropout", dropout_rate), ("batch_size",batch_size),("non_static", non_static),
                   ("conv_non_linear", conv_non_linear),
                   ("sqr_norm_lim",sqr_norm_lim)]
-    print parameters
+    #print parameters
         
     #define model architecture
     x = T.imatrix('x')
