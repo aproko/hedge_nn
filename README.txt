@@ -18,4 +18,3 @@ bash -i /path/to/training/txt/data -t /path/to/testing/txt/data -v /path/to/Goog
 
 The shell script allows you to train a new model. We've included our training data in ./train/train_dev.txt, but it can be replaced with any data in the format: Label \t Text. We've also included our test data in test.txt, which allow us to test the performance of the model on a held out dataset with gold standard labels. NOTE: Make sure you download the GoogleNews trained word vectors from https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz and unzip them (so you end up with a .bin file). 
 
-Example: bash train.sh -i ./train/train_dev.txt -t ./train/test.txt 
