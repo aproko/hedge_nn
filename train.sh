@@ -23,8 +23,7 @@ case $opt in
         exit 1;;
     esac
 done
-echo $iflag
-echo $vflag
+
 
 if ! $iflag || ! $vflag
 then
